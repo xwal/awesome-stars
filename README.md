@@ -10,17 +10,18 @@
     - [Assembly](#assembly)
     - [Batchfile](#batchfile)
     - [C](#c)
-    - [C#](#c#)
     - [C++](#c++)
     - [CSS](#css)
     - [CoffeeScript](#coffeescript)
     - [Erlang](#erlang)
+    - [GCC Machine Description](#gcc machine description)
     - [Go](#go)
     - [Groff](#groff)
     - [HTML](#html)
     - [Haskell](#haskell)
     - [Java](#java)
     - [JavaScript](#javascript)
+    - [LLVM](#llvm)
     - [Lua](#lua)
     - [Makefile](#makefile)
     - [OCaml](#ocaml)
@@ -40,7 +41,6 @@
     - [TeX](#tex)
     - [TypeScript](#typescript)
     - [VimL](#viml)
-    - [XSLT](#xslt)
 
 ## ApacheConf
 * [resume](https://github.com/PinkyJie/resume) - My Resume
@@ -53,24 +53,24 @@
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
 
 ## C
+* [swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) - The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 * [dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) - Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.
-* [libdispatch](https://github.com/macosforge/libdispatch) - To be deleted. Project has moved to
 * [iSparta](https://github.com/iSparta/iSparta) - APNG、WebP 转换器
 * [RevealLoader](https://github.com/heardrwt/RevealLoader) - Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices.
-* [obs-studio](https://github.com/jp9000/obs-studio) - OBS
+* [obs-studio](https://github.com/jp9000/obs-studio) - OBS - Free and open source software for live streaming and screen recording
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) - mirror of git://source.ffmpeg.org/ffmpeg.git
 * [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
-* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售！
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 * [licecap](https://github.com/justinfrankel/licecap) - LICEcap simple animated screen capture tool for Windows and OS X
 * [IntroToBLE](https://github.com/microbuilder/IntroToBLE) - Code samples for Getting Started with Bluetooth Low Energy (O'Reilly Media)
 * [Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 * [MMDB-Swift](https://github.com/lexrus/MMDB-Swift) - A tiny wrapper for libmaxminddb which allows you to lookup Geo data by IP address.
-* [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) - Pili RTMP Streaming SDK for iOS, H.264 and AAC hardware encoding supported. Camera and Microphone as input source.
-* [wax](https://github.com/alibaba/wax) - Wax is a framework that lets you write native iPhone apps in Lua.
+* [PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) - PLCameraStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，是带有采集模块老版本 SDK。如果是新用户接入，建议使用 PLDroidMediaStreaming。该版本支持 RTMP 推流，h.264 和 AAC 编码，硬编软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
 * [sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
-* [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Project at University of Tsukuba, Japan.
+* [SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - A Free Cross-platform Multi-protocol VPN Software. * For support, troubleshooting and feature requests we have http://www.vpnusers.com/. For critical vulnerability please email us. (mail address is on the header.)
 * [adium](https://github.com/adium/adium) - Official mirror of hg.adium.im
+* [Provenance](https://github.com/jasarien/Provenance) - An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 * [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 * [libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests.
 * [mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel
@@ -78,7 +78,7 @@
 * [ShadowVPN](https://github.com/clowwindy/ShadowVPN) - Removed according to regulations.
 * [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
 * [libsodium](https://github.com/jedisct1/libsodium) - A modern and easy-to-use crypto library.
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.1, with MediaCodec, VideoToolbox support.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 * [JSPatch](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 * [skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
 * [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
@@ -88,11 +88,9 @@
 * [HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP Socket Component
 * [osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
 
-## C# #
-* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform. Supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms, WPF, Windows Forms, Windows Phone 8, Windows Store and Universal Windows Platform (UWP).
-* [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
-
 ## C++
+* [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
+* [proto-quic](https://github.com/google/proto-quic) - 
 * [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
 * [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - 
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
@@ -102,7 +100,6 @@
 * [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - OPEN：高性能开源流媒体服务器，支持RTSP、HLS、HTTP直播
 * [swift](https://github.com/apple/swift) - The Swift Programming Language
 * [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-* [Provenance](https://github.com/jasarien/Provenance) - An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - cocos2d-x for C++
 * [glog](https://github.com/google/glog) - C++ implementation of the Google logging module
 * [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -119,9 +116,8 @@
 * [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 * [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 * [qtcefclient](https://github.com/joinAero/qtcefclient) - A simple cef3 client with Qt.
-* [KDSoap](https://github.com/KDAB/KDSoap) - KD Soap
+* [KDSoap](https://github.com/KDAB/KDSoap) - A Qt-based client-side and server-side SOAP component
 * [doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt) - A DoubanFM client
-* [otl](https://github.com/GerHobbelt/otl) - augmented clone of OTL (http://otl.sourceforge.net/) Oracle/SQL Server/DB2/... Database I/O Template Library
 * [breakpad-qt](https://github.com/AlekSi/breakpad-qt) - Cross-platform crash handler based on google-breakpad. NOT MAINTAINED! See forks:
 
 ## CSS
@@ -132,7 +128,6 @@
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 * [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 * [gotgithub](https://github.com/gotgit/gotgithub) - GotGitHub: an open source E-book about GitHub in Chinese
-* [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 * [weixin_sogou](https://github.com/iberryful/weixin_sogou) - 爬取微信公众号文章
 * [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 * [uno-zen](https://github.com/Kikobeats/uno-zen) - Minimalist and Elegant theme for Ghost. Demo @ https://kikobeats.com
@@ -145,6 +140,9 @@
 ## Erlang
 * [n2o](https://github.com/synrc/n2o) - 🔥 WebSocket Application Server for Enterprises
 * [ejabberd](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber / XMPP Instant Messaging platform
+
+## GCC Machine Description
+* [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift
 
 ## Go
 * [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -176,6 +174,7 @@
 * [nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners
 * [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 * [webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
 * [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 
@@ -183,16 +182,20 @@
 * [real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
 
 ## Java
+* [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 * [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - Navigation tab bar with colorful interactions.
-* [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+* [sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Code Inspection
 * [React-Native-Remote-Update](https://github.com/fengjundev/React-Native-Remote-Update) - 使用React-Native实现app热更新的一次实践
 * [Openfire](https://github.com/igniterealtime/Openfire) - A XMPP server licensed under the Open Source Apache License.
 * [JetbrainsPatchKeygen](https://github.com/rover12421/JetbrainsPatchKeygen) - JetbrainsPatchKeygen
-* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## JavaScript
+* [react-native_toiletApp](https://github.com/liumingmusic/react-native_toiletApp) - 第一个完整的react-native项目。包括服务端和移动端两部分。服务端使用express+bootstrap进行搭建，主要功能有登录、退出、模块选择、查看、修改、删除、分页等后台管理的基本功能；移动端主要用到组件View、Text、Image、ScrollView、ListView等常用的组件，也使用了第三方的地图服务(高德地图)，作为初学者。是一个很好的学习案例。
+* [effective-javascript](https://github.com/dreamapplehappy/effective-javascript) - To be, or not to be, that is a question! :joy: 万剑归宗的无名和独霸天下的雄霸
+* [rexxar-web](https://github.com/douban/rexxar-web) - Mobile Hybrid Framework Rexxar Web Implementation
+* [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 * [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-* [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) - 此项目已不再维护，若有需要，请前往该兄弟项目进行查看
+* [awesome-wechat-weapp](https://github.com/Aufree/awesome-wechat-weapp) - 
 * [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) - 【应用号】IDE + 破解 + Demo
 * [redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 * [ReactNative_Shopping](https://github.com/JasonStu/ReactNative_Shopping) - 电商类Reac Native App
@@ -225,10 +228,10 @@
 * [react-native-macos](https://github.com/ptmt/react-native-macos) - React Native for macOS
 * [vrview](https://github.com/googlevr/vrview) - 
 * [noble](https://github.com/sandeepmistry/noble) - A Node.js BLE (Bluetooth Low Energy) central module
-* [OurTimes](https://github.com/vczero/OurTimes) - 基于位置的通讯录(built on Node + MongoDB + AngularJS)
-* [React-Dou](https://github.com/vczero/React-Dou) - 基于 React-Native & 豆瓣Open API 开发搜索App
+* [OurTimes](https://github.com/vczero/OurTimes) - DEMO FOR M(MongoDB) + N(Node.js) + A(Angular.js)
+* [React-Dou](https://github.com/vczero/React-Dou) - 豆瓣搜索App
 * [React-Native-Code](https://github.com/vczero/React-Native-Code) - 《React Native入门与实战》实例源码
-* [React-Native-App](https://github.com/vczero/React-Native-App) - React-Native实战simple App
+* [React-Native-App](https://github.com/vczero/React-Native-App) - RN 开源之初，写几个小 App 玩玩
 * [NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 * [KaTeX](https://github.com/Khan/KaTeX) - Fast math typesetting for the web.
 * [Content-generator-sketch-plugin](https://github.com/timuric/Content-generator-sketch-plugin) - Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc
@@ -253,7 +256,7 @@
 * [forever](https://github.com/foreverjs/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * [editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 * [webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
-* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》
+* [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 * [N1](https://github.com/nylas/N1) - :love_letter: An extensible desktop mail app built on the modern web.
 * [etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: Really real-time collaborative document editing
 * [react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
@@ -263,7 +266,8 @@
 * [shields](https://github.com/badges/shields) - Shields badge specification, website and default API server
 * [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 * [DeerResume](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF。功能更全的Online服务请点这里 http://deercv.com
-* [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题 ; A simple and elegant theme for hexo.
+* [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
+* [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 * [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 * [nuclide](https://github.com/facebook/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 * [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -275,6 +279,7 @@
 * [Ghost](https://github.com/TryGhost/Ghost) - A simple, powerful publishing platform
 * [ReactNativeRubyChina](https://github.com/henter/ReactNativeRubyChina) - ReactNative iOS APP for RubyChina
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
+* [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 * [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -283,7 +288,9 @@
 * [xdomain](https://github.com/jpillora/xdomain) - A pure JavaScript CORS alternative
 * [verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 * [Tearable-Cloth](https://github.com/Dissimulate/Tearable-Cloth) - A tearable cloth simulation using vertlet integration.
-* [accessible-html5-video-player](https://github.com/paypal/accessible-html5-video-player) - Accessible HTML5 Video Player
+
+## LLVM
+* [llvm](https://github.com/llvm-mirror/llvm) - Mirror of official llvm git repository located at http://llvm.org/git/llvm.  Updated every five minutes.
 
 ## Lua
 * [dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
@@ -297,6 +304,29 @@
 * [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Objective-C
+* [talk-ios](https://github.com/jianliaoim/talk-ios) - 简聊 iOS 源代码  (Source code of Talk for iOS https://jianliao.com )，  AppStore link
+* [keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
+* [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder) - A drop in solution to show UIView's size. Only one line code to use it.
+* [DACircularProgress](https://github.com/danielamitay/DACircularProgress) - DACircularProgress is a UIView subclass with circular UIProgressView properties.
+* [GCDWebServer](https://github.com/swisspol/GCDWebServer) - Lightweight GCD based HTTP server for OS X & iOS (includes web based uploader & WebDAV server)
+* [LLWeChat](https://github.com/gyjzh/LLWeChat) - 实现IM基本功能，并且在细节、完成度、bugfree上媲美任何主流IM应用
+* [MMParallaxCell](https://github.com/adad184/MMParallaxCell) - A subclass of UITableViewCell to present the parallax effect
+* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Simply Implement Zee Young's animation
+* [BeeHive](https://github.com/alibaba/BeeHive) - :honeybee: BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid to coupling between modules.
+* [MVVM-DataController-Demo](https://github.com/skyline75489/MVVM-DataController-Demo) - 
+* [Learning-AV-Foundation](https://github.com/tapharmonic/Learning-AV-Foundation) - Sample code for Bob McCune's Learning AV Foundation book.
+* [LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in XCode project.
+* [GZIP](https://github.com/nicklockwood/GZIP) - A simple NSData category for gzipping/unzipping data in iOS and Mac OS
+* [AutoCoding](https://github.com/nicklockwood/AutoCoding) - AutoCoding is a category on NSObject that provides automatic support for NSCoding and NSCopying to every object.
+* [DTBonjour](https://github.com/Cocoanetics/DTBonjour) - Framework for Communicating over Bonjour+Wifi
+* [Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 150+ API documentation sets
+* [protobuf-objc](https://github.com/alexeyxo/protobuf-objc) - Google Protocol Buffers for Objective-C
+* [xcode_tool](https://github.com/tangqiaoboy/xcode_tool) - The snippet of xcode will be stored in ~/Library/Developer/Xcode/UserData/CodeSnippets/
+* [TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Useful for showing text or custom view tags in a vertical or horizontal scrollable view and support Autolayout at the same time. It is highly customizable that most features of the text tag can be configured. 标签显示控件，同时支持文字或自定义View
+* [AwesomeIntroguideView](https://github.com/Bupterambition/AwesomeIntroguideView) - 🏆An awesome view for Introduce
+* [rexxar-ios](https://github.com/douban/rexxar-ios) - Mobile Hybrid Framework Rexxar iOS Container
+* [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
+* [PYSearch](https://github.com/iphone5solo/PYSearch) - 🔍 An elegant search controller which replaces the UISearchController for iOS.
 * [CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind
 * [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - [iOS] Easy, customizable notifications displayed on top of the statusbar.
 * [SMSNinja](https://github.com/iosre/SMSNinja) - SMSNinja is a lightweight but highly efficient firewall for blocking and hiding SMS, MMS, iMessages, phone calls and FaceTime on stock Phone and Message Apps.
@@ -324,7 +354,7 @@
 * [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 高仿Bilibili客户端 - ( ゜- ゜)つロ 乾杯~
 * [JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 * [FOUR](https://github.com/SketchK/FOUR) - FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal.
-* [wire-ios](https://github.com/wireapp/wire-ios) - Wire iOS client (iPhone and iPad)
+* [wire-ios](https://github.com/wireapp/wire-ios) - 📱 Wire iOS client (iPhone and iPad)
 * [Animated-Paths](https://github.com/ole/Animated-Paths) - Demo project: Animating the drawing of a CGPath with CAShapeLayer.strokeEnd
 * [RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout) - The custom collectionView layout that can perform reordering of cells by dragging it.
 * [LMLiveStreaming](https://github.com/chenliming777/LMLiveStreaming) - IOS Live,H264 and AAC Hard coding，support GPUImage Beauty， rtmp and flv transmission，weak network lost frame，Dynamic switching rate
@@ -356,7 +386,6 @@
 * [TMCache](https://github.com/tumblr/TMCache) - Fast parallel object cache for iOS and OS X.
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
 * [launchrocket](https://github.com/jimbojsb/launchrocket) - A Mac PrefPane to manage all your Homebrew-installed services
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [ProtocolKit](https://github.com/forkingdog/ProtocolKit) - Protocol extension for Objective-C
 * [XcodeEditor](https://github.com/appsquickly/XcodeEditor) - An API for manipulating Xcode project files.
 * [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
@@ -406,8 +435,9 @@
 * [MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
 * [Animations](https://github.com/YouXianMing/Animations) - The Animation Collection.
 * [BabyBluetooth-swift](https://github.com/coolnameismy/BabyBluetooth-swift) - :baby: BabyBluetooth swift 版本，The easiest way to use Bluetooth (BLE )in ios,even bady can use. 简单易用的蓝牙库，基于CoreBluetooth的封装，并兼容ios和mac osx.
+* [wax](https://github.com/alibaba/wax) - Wax is a framework that lets you write native iPhone apps in Lua.
 * [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) - A simple keyboard to use with numbers and, optionally, a decimal point.
-* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is A powerful iOS UI framework. It integrated the Android layout,AutoLayout,SizeClass, HTML/CSS float and flexbox functions. You can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass  to build your UI Layout
+* [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use LinearLayout,RelativeLayout,FrameLayout,TableLayout,FlowLayout,FloatLayout,PathLayout,LayoutSizeClass to build your App 自动布局 UIView UITableView UICollectionView
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
 * [DarkBlue](https://github.com/chenee/DarkBlue) - LightBlue like CoreBluetooth Demo for  BT LE, include dynamic logger (you even could send the log.txt to you mail with you iPhone)
 * [MZTimerLabel](https://github.com/mineschan/MZTimerLabel) - A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.
@@ -472,7 +502,7 @@
 * [NetworkEye](https://github.com/coderyi/NetworkEye) - a iOS network debug library ,It can monitor HTTP requests within the App and displays information related to the request.
 * [iOS-WebP](https://github.com/seanooi/iOS-WebP) - Google's WebP image format decoder and encoder for iOS
 * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
-* [xctool](https://github.com/facebook/xctool) - A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
+* [xctool](https://github.com/facebook/xctool) - An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 * [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
 * [wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - The official Wikipedia iOS app.
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -512,7 +542,7 @@
 * [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) - A suite containing many tools to display progress information on iOS.
 * [RMStepsController](https://github.com/CooperRS/RMStepsController) - This is an iOS control for guiding users through a process step-by-step
 * [SXNews](https://github.com/dsxNiubility/SXNews) - High imitation Neteasy News. (include list,detail,photoset,weather,feedback)
-* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A superiorly awesome iOS calendar view、library、control, compatible with Objective-C and Swift
+* [FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar、library、control, compatible with Objective-C and Swift
 * [iHasApp](https://github.com/danielamitay/iHasApp) - The iHasApp iOS Framework allows you to detect installed apps on a user's device.
 * [DAKeyboardControl](https://github.com/danielamitay/DAKeyboardControl) - DAKeyboardControl adds keyboard awareness and scrolling dismissal (ala iMessages app) to any view with only 1 line of code.
 * [TSMessages](https://github.com/KrauseFx/TSMessages) - Easy to use and customizable messages/notifications for iOS à la Tweetbot
@@ -530,7 +560,7 @@
 * [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel) - UILabel replacement with fine-grain appear/disappear animation
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Many Google Material Design Controls for iOS native application
-* [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and OS X
+* [PINCache](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X
 * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 * [RTImageAssets](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x
 * [ESJsonFormat-Xcode](https://github.com/EnjoySR/ESJsonFormat-Xcode) - 将JSON格式化输出为模型的属性
@@ -564,8 +594,8 @@
 * [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers) - iOS Objective-C headers as derived from runtime introspection
 * [JZNavigationExtension](https://github.com/JazysYu/JZNavigationExtension) - JZNavigationExtension integrates some convenient features for UINavigationController and easy to use.
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS
-* [RealtimeChat](https://github.com/relatedcode/RealtimeChat) - This is a full native iPhone app to create realtime, text based group or private chat with Firebase.
-* [FirebaseChat](https://github.com/relatedcode/FirebaseChat) - This is a full native iPhone app to create realtime, text based group or private chat with Firebase.
+* [RealtimeChat](https://github.com/relatedcode/RealtimeChat) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
+* [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) - UICKeyChainStore is a simple wrapper for Keychain on iOS. Makes using Keychain APIs as easy as NSUserDefaults.
 * [DTCoreText](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText
 * [ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD for iOS 8. (Objective-C)
@@ -590,7 +620,6 @@
 * [JKCategories](https://github.com/shaojiankui/JKCategories) - JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.
 * [Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & OS X
 * [FormatterKit](https://github.com/mattt/FormatterKit) - `stringWithFormat:` for the sophisticated hacker set
-* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - Easy to read and write chainable animations in Objective-C
 * [EDStarRating](https://github.com/erndev/EDStarRating) - Configurable Star Rating control for iOS and OSX
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) - An UIAlertView replacement with block syntax and fancy transition styles.
@@ -665,6 +694,7 @@
 * [PinYin4Objc](https://github.com/kimziv/PinYin4Objc) - PinYin4Objc is a popular objective-c library supporting convertion between Chinese(both Simplified and Tranditional) characters and most popular Pinyin systems， it's performance is very efficient, data cached at first time, and use async method with block, this can avoid ui blocking, and runs smoothly. The output format of pinyin could be customized.(关键字：汉字转拼音，中文转拼音）
 
 ## Objective-C++
+* [objc-runtime](https://github.com/RetVal/objc-runtime) - objc runtime 706
 * [issue-21-OpenCV-FaceRec](https://github.com/objcio/issue-21-OpenCV-FaceRec) - A small project demonstrating how OpenCV can be used on iOS to perform face recognition
 * [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
 * [FBAllocationTracker](https://github.com/facebook/FBAllocationTracker) - iOS library that helps tracking all allocated Objective-C objects
@@ -673,6 +703,9 @@
 * [componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 
 ## Others
+* [DynamicCocoa](https://github.com/DynamicCocoa/DynamicCocoa) - A framework for running Cocoa code dynamically.
+* [Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source) - VR developers necessary resources(VR 开发者必备资源汇总)
+* [O-Reilly-Offering-Programming-eBooks-for-Free](https://github.com/ZhaoLion/O-Reilly-Offering-Programming-eBooks-for-Free) - O'Reilly Offering Programming eBooks for Free
 * [iossecurity](https://github.com/wufawei/iossecurity) - security.ios-wiki.com上关于iOS安全的全部文章
 * [iOS-Session-Slides](https://github.com/MDCC2016/iOS-Session-Slides) - Here are the slides in MDCC 2016 iOS Session.
 * [swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) - Moved to apple/swift-protobuf
@@ -685,13 +718,13 @@
 * [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * [swift-style-guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
-* [zen](https://github.com/100mango/zen) - iOS 心得
+* [zen](https://github.com/100mango/zen) - iOS, Swift, Objective-C 心得
 * [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 * [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation) - :umbrella: A collection of iOS animation repos
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * [article](https://github.com/WeMobileDev/article) - articles by WeChat Mobile Development Team
 * [Specs](https://github.com/CocoaPods/Specs) - The CocoaPods Master Repo
-* [sec-chart](https://github.com/SecWiki/sec-chart) - Security Flow Chart
+* [sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 * [leancloud-demos](https://github.com/leancloud/leancloud-demos) - LeanCloud Demos 分类汇总
 * [Learning-Sharing](https://github.com/xitu/Learning-Sharing) - 技术分享，工具分享，好玩的东西
@@ -716,7 +749,6 @@
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 * [awesome-animation](https://github.com/Animatious/awesome-animation) - :octocat: A great list of open sourced UI Motion Library produced by Animatious Group.
 * [icon-stamper](https://github.com/tylergaw/icon-stamper) - A Sketch Plugin for creating multiple sizes of iOS icons
-* [gitosis](https://github.com/res0nat0r/gitosis) - Manage git repositories, provide access to them over SSH, with tight access control and not needing shell accounts.
 * [iOS-Developer-and-Designer-Interview-Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work. While tailored for iOS, many questions could be used for Android developers or designers as well. A great self-test if you're looking to keep current or practice for your own interview.
 * [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -740,8 +772,6 @@
 * [articles](https://github.com/objcio/articles) - All current objc.io articles
 * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 * [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide) - A style guide that outlines the coding conventions for raywenderlich.com
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Collection of material design libs and res.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries
@@ -776,7 +806,9 @@
 * [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 
 ## Python
-* [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All 429 LeetCode Questions
+* [PSpider](https://github.com/xianhu/PSpider) - simple python spider frame, simple python crawler frame
+* [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+* [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All 468 LeetCode Questions
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 * [wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - Advanced network emulation solution.
@@ -785,6 +817,7 @@
 * [chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 * [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) - 查看被删的微信好友
 * [gotgit](https://github.com/gotgit/gotgit) - Errata and resources for GotGit: a book about Git in Chinese
+* [gitosis](https://github.com/res0nat0r/gitosis) - Manage git repositories, provide access to them over SSH, with tight access control and not needing shell accounts.
 * [zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source group chat
 * [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 * [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN) - 中文 iOS/Mac 开发博客列表
@@ -793,7 +826,6 @@
 * [spynner](https://github.com/makinacorpus/spynner) - Programmatic web browsing module with AJAX support for Python
 * [pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 * [crawler-python](https://github.com/numb3r3/crawler-python) - a simple crawler framework
-* [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 
 ## QML
 * [qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
@@ -801,12 +833,12 @@
 ## Ruby
 * [brew](https://github.com/Homebrew/brew) - :beer: The missing package manager for macOS
 * [update_xcode_plugins](https://github.com/inket/update_xcode_plugins) - No more messing with plugin UUIDs; Plugins on Xcode 8!
-* [homebrew-nginx](https://github.com/Homebrew/homebrew-nginx) - :fire_engine: Community Nginx tap for custom modules
+* [homebrew-nginx](https://github.com/Homebrew/homebrew-nginx) - :fire_engine: Community NGINX tap for custom modules
 * [PokemonHook](https://github.com/rpplusplus/PokemonHook) - 
 * [homebrew-cask](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries
-* [xcode-install](https://github.com/KrauseFx/xcode-install) - Install and update your Xcodes.
+* [xcode-install](https://github.com/KrauseFx/xcode-install) - Install and update your Xcodes
 * [ThisCouldBeUsButYouPlaying](https://github.com/segiddins/ThisCouldBeUsButYouPlaying) - :black_joker: Generate Swift Playgrounds for any library.
-* [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps
+* [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 * [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 * [xcake](https://github.com/jcampbell05/xcake) - :cake: Describe and generate Xcode projects in a human readable format.
 * [gistub](https://github.com/seratch/gistub) - Sharing code snippets in-house
@@ -825,6 +857,7 @@
 * [sstoolkit](https://github.com/soffes/sstoolkit) - A collection of well-documented iOS classes for making life easier
 * [WWDC2015](https://github.com/6david9/WWDC2015) - WWDC2015下载链接
 * [YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont) - Replace Helvetica Neue on your 10.10 Yosemite Mac with San Francisco – the Watch font.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 * [awesome-react-native](https://github.com/jondot/awesome-react-native) - An "awesome" type curated list of React Native components, news, tools, and learning material
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 * [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
@@ -837,6 +870,7 @@
 * [Chats](https://github.com/acani/Chats) - Open-Source Messaging App
 
 ## Shell
+* [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management
 * [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker, with real DevOps practice!
 * [swiftenv](https://github.com/kylef/swiftenv) - Swift Version Manager
 * [FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
@@ -854,13 +888,21 @@
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift
+* [ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
+* [SwifterSwift](https://github.com/omaralbeik/SwifterSwift) - A handy collection of more than 370 native Swift 3 extensions to boost your productivity.
+* [Sketch-iOS-Library](https://github.com/bgian/Sketch-iOS-Library) - A library of iOS styles replicated in Sketch to speed up your workflow.
+* [PlaygroundTDD](https://github.com/WhiskerzAB/PlaygroundTDD) - Small library to easily run your tests directly within a Playground
+* [siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients for iOS / macOS
+* [Learning-AV-Foundation-Swift](https://github.com/tapharmonic/Learning-AV-Foundation-Swift) - Swift 3.0 port of the sample code for Bob McCune's Learning AV Foundation book. http://learningavfoundation.com
+* [ruby-china-ios](https://github.com/ruby-china/ruby-china-ios) - Ruby China iOS via Turbolinks
+* [Edge](https://github.com/SwiftOnEdge/Edge) - A Swift Multiplatform Web and Networking Framework
 * [SWRoute](https://github.com/rodionovd/SWRoute) - PoC of function hooking in Swift
 * [iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
 * [ProtocolNetwork](https://github.com/MDCC2016/ProtocolNetwork) - Sample project to show how to use protocol/extension to build a network layer
 * [Zewo](https://github.com/Zewo/Zewo) - Open source Swift libraries for modern server software on macOS and Linux.
 * [mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - Chainable animations in Swift
-* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that is used to create beautiful applications.
+* [Material](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework for Google's Material Design in Swift.
 * [LearnSwift](https://github.com/cjiong/LearnSwift) - One hundred days, fifty projects.
 * [StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views
 * [12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
@@ -870,7 +912,7 @@
 * [SwiftTimer](https://github.com/100mango/SwiftTimer) - Simple and Elegant Timer
 * [Diary](https://github.com/kevinzhow/Diary) - Vertical Diary App
 * [ReactiveKit](https://github.com/ReactiveKit/ReactiveKit) - A Swift Reactive Programming Kit
-* [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill.
+* [FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 * [iOS10-day-by-day](https://github.com/shinobicontrols/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series
 * [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 * [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - A lightweight Swift WebKit view controller for iOS
@@ -890,13 +932,13 @@
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift:  Graphs/Trees, Support Vector Machines, Neural Networks, PCA, K-Means, Genetic Algorithms
 * [LeetCode_Swift](https://github.com/soapyigu/LeetCode_Swift) - Solutions coded by Swift to LeetCode
 * [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift
-* [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS & tvOS
+* [Iconic](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS, watchOS and tvOS
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
 * [vapor](https://github.com/vapor/vapor) - A web framework and server for Swift that works on macOS and Ubuntu.
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 * [AssistantKit](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift.
-* [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift.
+* [TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift 3.
 * [SuperDelegate](https://github.com/square/SuperDelegate) - SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle
 * [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
@@ -905,6 +947,7 @@
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 * [Host.swift](https://github.com/rjstelling/Host.swift) - A Swift implementation of NSHost that works on iOS, OS X and tvOS. Host.swift is safe to use in a framework because it does not require a bridging header.
 * [BaoKanIOS](https://github.com/6ag/BaoKanIOS) - 已经上架：使用swift语言写的一款新闻资讯类的app
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift
 * [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for OS X and Linux
 * [WebSocket](https://github.com/Zewo/WebSocket) - WebSocket implementation for use by Client and Server
@@ -932,13 +975,13 @@
 * [swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift programming language.
 * [Kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController.
-* [Phonetic](https://github.com/iAugux/Phonetic) - An iOS App to Generate phonetic keys for your Chinese contacts. Written in Swift.
+* [Phonetic](https://github.com/iAugux/Phonetic) - An iOS App to generate phonetic keys for your Chinese contacts. Written in Swift.
 * [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - A simple and elegant 3D-Flyover location request screen written in Swift
 * [AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - 毛笔画板
 * [Swifton](https://github.com/necolt/Swifton) - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults
-* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings, …)
+* [SwiftGen](https://github.com/AliSoftware/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 * [SwiftyCharms](https://github.com/lingoer/SwiftyCharms) - Some rune word for sorcerers playing dark magic
 * [trySwiftApp](https://github.com/tryswift/trySwiftApp) - try! Swift Conference App
 * [Swift90Days](https://github.com/callmewhy/Swift90Days) - 90 articles about Swift in 90 days
@@ -963,7 +1006,6 @@
 * [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux
 * [GRDB.swift](https://github.com/groue/GRDB.swift) - A Swift application toolkit for SQLite databases, with WAL mode support
 * [SwiftCommunityWeeklyQA](https://github.com/SwiftGGTeam/SwiftCommunityWeeklyQA) - collect the Swift Community Question and Answer every week，share those QAs in our swift.gg website.
-* [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development & release in Swift 2 & 3
 * [C4iOS](https://github.com/C4Labs/C4iOS) - C4 is an open-source creative coding framework that harnesses the power of native iOS programming with a simplified API that gets you working with media right away. Build artworks, design interfaces and explore new possibilities working with media and interaction.
 * [AutoLayout](https://github.com/johnlui/AutoLayout) - Auto Layout 秘境
@@ -971,10 +1013,10 @@
 * [Curassow](https://github.com/kylef/Curassow) - Swift HTTP server using the pre-fork worker model
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library!
-* [Swift-AI](https://github.com/collinhundley/Swift-AI) - A machine learning library in Swift.
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - The machine learning library in Swift.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps. (For mobile back-end development, website and web app development, and more...)
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing) - MonkeyKing helps you to post messages to Chinese Social Networks.
-* [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible interpolation framework
+* [Popsicle](https://github.com/DavdRoman/Popsicle) - Simple, extensible interpolation framework
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 * [keychain-swift](https://github.com/marketplacer/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 * [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) - A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.
@@ -985,7 +1027,7 @@
 * [Pitaya](https://github.com/johnlui/Pitaya) - A Swift HTTP / HTTPS networking library just incidentally execute on machines
 * [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App, created w/ Swift
 * [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - :iphone: :movie_camera: A powerful and completely customizable media player for iOS
-* [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift
+* [Venice](https://github.com/Zewo/Venice) - Swift CSP (Coroutines, Channels, Select) for macOS and Linux
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE
 * [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
 * [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
@@ -998,7 +1040,7 @@
 * [Just](https://github.com/JustHTTP/Just) - Swift HTTP for Humans
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - Cool wave like transition between two or more UICollectionView
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of awesome loading animations
-* [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) - Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+* [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) - 🚀 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -1034,6 +1076,7 @@
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather is an iOS weather app developed in Swift 2. The app has been actively upgrading to adopt the latest features of iOS and Swift language.
 * [Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL for Swift :iphone::triangular_ruler:
 * [Swifter](https://github.com/mattdonnelly/Swifter) - :bird: A Twitter framework for iOS & OS X written in Swift
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
 * [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - A customizeable checkbox for iOS
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI
@@ -1055,15 +1098,11 @@
 * [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 
 ## TypeScript
-* [NativeScript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
-* [black-screen](https://github.com/shockone/black-screen) - A terminal emulator for the 21st century.
+* [NativeScript](https://github.com/NativeScript/NativeScript) - NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular, FlexBox and CSS, and get native UI and performance on iOS and Android.
 * [growth](https://github.com/phodal/growth) - Growth - App to help you Be Awesome Developer & Awesome Hacker
 * [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 * [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 
 ## VimL
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-
-## XSLT
-* [swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
