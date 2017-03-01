@@ -41,7 +41,7 @@
     - [Swift](#swift)
     - [TeX](#tex)
     - [TypeScript](#typescript)
-    - [VimL](#viml)
+    - [Vim script](#vim script)
 
 ## ApacheConf
 * [resume](https://github.com/PinkyJie/resume) - My Resume
@@ -54,6 +54,7 @@
 * [python-guide](https://github.com/kennethreitz/python-guide) - Python best practices guidebook, written for Humans.
 
 ## C
+* [macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X
 * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 * [ZipArchive](https://github.com/mattconnolly/ZipArchive) - zip archive processing for Cocoa - iPhone and OS X
 * [ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS and Mac.
@@ -93,6 +94,10 @@
 * [osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
 
 ## C++
+* [Catch](https://github.com/philsquared/Catch) - A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
+* [QtAwesome](https://github.com/gamecreature/QtAwesome) - QtAwesome - Font Awesome support for Qt applications
+* [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
+* [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 * [thrift](https://github.com/apache/thrift) - Mirror of Apache Thrift
 * [googletest](https://github.com/google/googletest) - Google Test
@@ -100,13 +105,13 @@
 * [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 * [clang](https://github.com/llvm-mirror/clang) - Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
 * [proto-quic](https://github.com/google/proto-quic) - 
-* [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+* [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 * [LiveVideoCoreSDK](https://github.com/runner365/LiveVideoCoreSDK) - 
 * [tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
 * [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 * [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
-* [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - OPEN：高性能开源流媒体服务器，支持RTSP、RTMP、HLS直播，支持分布式云平台架构，目前EasyDarwin云平台已经发展到v1.1版本
+* [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server based on Darwin Streaming Server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于Darwin Streaming Server 维护和优化：RTSP转发、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套简单基础的流媒体云平台架构！
 * [AudioKit](https://github.com/audiokit/AudioKit) - Open-source audio synthesis, processing, & analysis platform.
 * [swift](https://github.com/apple/swift) - The Swift Programming Language
 * [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -161,7 +166,7 @@
 * [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 * [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 * [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-* [lantern](https://github.com/getlantern/lantern) - 🔴Lantern lastest version https://github.com/getlantern/lantern/releases/tag/latest 🔴 蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
+* [lantern](https://github.com/getlantern/lantern) - 🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴
 
 ## Groff
 * [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000) - A curated list of awesome iOS top 1000 libraries.
@@ -204,6 +209,8 @@
 * [JetbrainsPatchKeygen](https://github.com/rover12421/JetbrainsPatchKeygen) - JetbrainsPatchKeygen
 
 ## JavaScript
+* [CrashMonkey4IOS](https://github.com/vigossjjj/CrashMonkey4IOS) - iOS Monkey Test Tool.
+* [hacknical](https://github.com/ecmadao/hacknical) - A website for github user to make a better resume.
 * [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for 62 Languages 📖🎉🖥
 * [toilet](https://github.com/vczero/toilet) - 一款快速帮你找到附近卫生间的神奇App
 * [habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -328,6 +335,12 @@
 * [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Objective-C
+* [Valet](https://github.com/square/Valet) - Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
+* [IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
+* [FMDBMigrationManager](https://github.com/layerhq/FMDBMigrationManager) - FMDBMigrationManager provides a simple, elegant interface for managing SQLite database schemas with FMDB.
+* [CTMediator](https://github.com/casatwy/CTMediator) - The mediator for modularization in your iOS Project.
+* [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) - iOS port from libphonenumber (Google's phone number handling library)
+* [CDD](https://github.com/music4kid/CDD) - A new pattern to write less code for you iOS App's application layer.
 * [FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
 * [RecognizeCard](https://github.com/gaofengtan/RecognizeCard) - 识别中国二代身份证
 * [Minya](https://github.com/southpeak/Minya) - A simple basic hierarchy for iOS development with Objective-C. It is based on MVCS and KVO.
@@ -609,7 +622,7 @@
 * [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
 * [LxThroughPointsBezier](https://github.com/DeveloperLx/LxThroughPointsBezier) - A funny iOS library. Draw a smooth bezier through several points you designated. The curve‘s bend level is adjustable.
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) - UIView category which makes it easy to create layout constraints in code
-* [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in Objective-C
+* [DateTools](https://github.com/MatthewYork/DateTools) - Dates and times made easy in iOS
 * [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 * [WaterflowView](https://github.com/aceisScope/WaterflowView) - A waterflow display like the Pinterest feeling, supporting UICollectionView
@@ -738,9 +751,11 @@
 * [componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 
 ## Others
+* [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+* [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) - 翻译
 * [awesome-xcode-extensions](https://github.com/tib/awesome-xcode-extensions) - Awesome native Xcode extensions.
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
-* [Potatso](https://github.com/icodesign/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
+* [Potatso](https://github.com/Potatso/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 9.
 * [fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture) - :japanese_castle: Better ways to structure apps
 * [wiki](https://github.com/greatfire/wiki) - 
 * [DynamicCocoa](https://github.com/DynamicCocoa/DynamicCocoa) - A framework for running Cocoa code dynamically.
@@ -848,10 +863,12 @@
 * [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 
 ## Python
+* [LagouJob](https://github.com/EclipseXuLu/LagouJob) - 拉勾网职业数据分析
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 * [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
 * [BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 * [BingNiceWallpapers](https://github.com/redstoneleo/BingNiceWallpapers) - get background images from http://www.bing.com/?mkt=zh-CN and set them as the wallpaper of your PC desktop
-* [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。真的快，快出声！（少数派、Appinn、Mac玩儿法 推荐）
+* [AppleDNS](https://github.com/gongjianhui/AppleDNS) - Apple 网络服务加速配置。（少数派、Appinn、Mac玩儿法 推荐）
 * [PSpider](https://github.com/xianhu/PSpider) - simple python spider frame, simple python crawler frame
 * [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 * [LeetCode](https://github.com/kamyu104/LeetCode) - :pencil: Python / C++ 11 Solutions of All 468 LeetCode Questions
@@ -916,6 +933,7 @@
 * [Chats](https://github.com/acani/Chats) - Open-Source Messaging App
 
 ## Shell
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management
 * [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker, with real DevOps practice!
 * [swiftenv](https://github.com/kylef/swiftenv) - Swift Version Manager
@@ -934,6 +952,10 @@
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift
+* [RandomKit](https://github.com/nvzqz/RandomKit) - Random data generation in Swift
+* [DeviceKit](https://github.com/dennisweissmann/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
+* [AppScreenshots](https://github.com/6ag/AppScreenshots) - 已经上架：app开发者专用应用商店截图工具
+* [GPUImage2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout) - A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 * [Swift30Projects](https://github.com/soapyigu/Swift30Projects) - 30 mini Swift Apps for self-study
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) - ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!
@@ -1162,6 +1184,6 @@
 * [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 * [ionic](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything 🎉
 
-## VimL
+## Vim script
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
