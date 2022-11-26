@@ -1092,6 +1092,7 @@
 
 ## ios 
 
+- [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak"
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
@@ -1601,6 +1602,7 @@
 
 ## macos 
 
+- [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Decentralized blogs and websites powered by IPFS and Ethereum Name System
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -1957,6 +1959,7 @@
 
 ## others 
 
+- [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [Safeheron/tss-rsa-cpp](https://github.com/Safeheron/tss-rsa-cpp) - A library for tss-rsa according to paper Practical Threshold Signatures.
 - [Safeheron/safeheron-crypto-suites-cpp](https://github.com/Safeheron/safeheron-crypto-suites-cpp) - An assembly of all the basic libraries and cryptography protocols from Safeheron.
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable light client for Ethereum
@@ -3255,6 +3258,7 @@
 
 ## swift 
 
+- [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
 - [WalletConnect/WalletConnectSwiftV2](https://github.com/WalletConnect/WalletConnectSwiftV2) - WalletConnect Swift SDK v2
