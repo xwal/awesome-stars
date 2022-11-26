@@ -1387,6 +1387,7 @@
 
 ## Rust 
 
+- [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable light client for Ethereum
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -1489,6 +1490,7 @@
 
 ## Swift 
 
+- [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [JeaSungLEE/Awesome-Xcode-Behaviors](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors) - 👈Quickly and easily do annoying tasks with xcode shortcuts
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
