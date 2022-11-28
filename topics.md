@@ -1879,7 +1879,7 @@
 - [YouXianMing/YoCelsius](https://github.com/YouXianMing/YoCelsius) - A weather app that uses animation to give you an at-a-glance look at the weather.
 - [YouXianMing/Animations](https://github.com/YouXianMing/Animations) - The Animation Collection.
 - [Nyx0uf/NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit) - A set of efficient categories for UIImage class. It allows filtering, resizing, masking, rotating, enhancing... and more.
-- [Sunnyyoung/Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
+- [sunnyyoung/Meizi](https://github.com/sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
 - [Wolg/awesome-swift](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
 - [raymondjavaxx/SpinKit-ObjC](https://github.com/raymondjavaxx/SpinKit-ObjC) - UIKit port of SpinKit
 - [ChatSecure/ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) - ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.
