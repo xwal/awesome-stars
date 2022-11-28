@@ -865,7 +865,7 @@
 - [supermarin/ObjectiveRecord](https://github.com/supermarin/ObjectiveRecord) - ActiveRecord-like API for CoreData
 - [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Super Awesome Easy Fetching for Core Data!
 - [liaojinxing/Voice2Note](https://github.com/liaojinxing/Voice2Note) - Voice2Note iOS client source codes.
-- [Sunnyyoung/Meizi](https://github.com/Sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
+- [sunnyyoung/Meizi](https://github.com/sunnyyoung/Meizi) - 豆瓣妹子图iOS客户端
 - [GeeTeam/gtapp-ios-oc](https://github.com/GeeTeam/gtapp-ios-oc) - gtapp ios sdk
 - [Spaceman-Labs/SMPageControl](https://github.com/Spaceman-Labs/SMPageControl) - A drop in replacement for UIPageControl with a slew of additional customization options.
 - [raymondjavaxx/SpinKit-ObjC](https://github.com/raymondjavaxx/SpinKit-ObjC) - UIKit port of SpinKit
