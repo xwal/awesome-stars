@@ -2358,7 +2358,6 @@
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [xhzengAIB/MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting featu
 - [lzwjava/LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud
-- [icodesign/Potatso](https://github.com/icodesign/Potatso) - Potatso is an iOS client that implements different proxies with the leverage of NetworkExtension framework in iOS 10+.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [jjgod/mac-dictionary-kit](https://github.com/jjgod/mac-dictionary-kit) - Dictionary conversion tool for Mac OS X 10.5 and above
 - [greatfire/wiki](https://github.com/greatfire/wiki) - 
