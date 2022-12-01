@@ -1466,6 +1466,7 @@
 
 ## Solidity 
 
+- [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [artgobblers/art-gobblers](https://github.com/artgobblers/art-gobblers) - An experimental decentralized art factory by Justin Roiland and Paradigm.
 - [code-423n4/2022-09-artgobblers](https://github.com/code-423n4/2022-09-artgobblers) - 
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
