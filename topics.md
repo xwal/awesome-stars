@@ -1959,6 +1959,7 @@
 
 ## others 
 
+- [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [Safeheron/tss-rsa-cpp](https://github.com/Safeheron/tss-rsa-cpp) - A library for tss-rsa according to paper Practical Threshold Signatures.
 - [Safeheron/safeheron-crypto-suites-cpp](https://github.com/Safeheron/safeheron-crypto-suites-cpp) - An assembly of all the basic libraries and cryptography protocols from Safeheron.
