@@ -1297,7 +1297,7 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [knownsec/RD_Checklist](https://github.com/knownsec/RD_Checklist) - 知道创宇研发技能表
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
 - [rajkosto/ChoiDujour](https://github.com/rajkosto/ChoiDujour) - Converts Nintendo Switch firmware update packages to installable images/files that can be transferred to the device itself.
 - [Bob123a1/CDNSP-GUI](https://github.com/Bob123a1/CDNSP-GUI) - NSP Downloader for Nintendo Switch - CDNSP GUI Bob
 - [taobao/nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
