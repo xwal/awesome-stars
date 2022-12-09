@@ -467,6 +467,7 @@
 
 ## chrome-extension 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
@@ -1962,7 +1963,6 @@
 
 ## others 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [Safeheron/tss-rsa-cpp](https://github.com/Safeheron/tss-rsa-cpp) - A library for tss-rsa according to paper Practical Threshold Signatures.
