@@ -251,6 +251,7 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 
 ## angular 
@@ -467,7 +468,7 @@
 
 ## chrome-extension 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
@@ -969,7 +970,7 @@
 ## hacktoberfest 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -1097,7 +1098,7 @@
 ## ios 
 
 - [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
@@ -1358,6 +1359,7 @@
 - [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 - [skywinder/ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 - [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 翻译、开发心得或学习笔记
 - [aryaxt/iOS-Slide-Menu](https://github.com/aryaxt/iOS-Slide-Menu) - iOS Slide Menu with ability to add both left and right menu, and built in gesture recognizer. Similar to Path and Facebook
 - [NSHipster/articles](https://github.com/NSHipster/articles) - Articles for NSHipster.com
@@ -1745,6 +1747,7 @@
 - [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios) - :iphone: :movie_camera: A powerful and completely customizable media player for iOS
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## monero 
 
@@ -2904,7 +2907,6 @@
 - [John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) - A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !
 - [Glow-Inc/GLPubSub](https://github.com/Glow-Inc/GLPubSub) - A wrapper of NSNotificationCenter to make pub sub easier
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
 - [arturdev/AMSlideMenu2](https://github.com/arturdev/AMSlideMenu2) - Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.
 - [KittenYang/KYCuteView](https://github.com/KittenYang/KYCuteView) - Drag like a gooey bubble.
@@ -3088,6 +3090,7 @@
 - [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 ## react-native 
@@ -3113,6 +3116,7 @@
 - [leecade/react-native-swiper](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## reactjs 
 
