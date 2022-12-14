@@ -89,6 +89,7 @@
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
+- [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -1462,6 +1463,10 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+
+## jekyll-theme 
+
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 ## jquery 
 
