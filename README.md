@@ -310,6 +310,7 @@
 
 ## HTML 
 
+- [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
@@ -1568,7 +1569,7 @@
 - [Danie1s/Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 - [zoejessica/AccessControlKitty](https://github.com/zoejessica/AccessControlKitty) - Xcode extension - quickly change access control level (public, private etc.) of selected Swift code by Editor menu item or keyboard command
-- [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃Create hand-drawn, sketchy, comic shape in Swift
+- [onmyway133/RoughSwift](https://github.com/onmyway133/RoughSwift) - 🎃 Create hand-drawn, sketchy, comic shape in Swift
 - [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
 - [scenee/FloatingPanel](https://github.com/scenee/FloatingPanel) - A clean and easy-to-use floating panel UI component for iOS
 - [Awalz/SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift
@@ -1983,7 +1984,7 @@
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
 - [Uniswap/v2-core](https://github.com/Uniswap/v2-core) - 🎛 Core smart contracts of Uniswap V2
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40%-60%), but is fully open source.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
