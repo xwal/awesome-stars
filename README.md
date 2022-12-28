@@ -107,6 +107,7 @@
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [answer-huang/dSYMTools](https://github.com/answer-huang/dSYMTools) - dSYM analyze
+- [gamecreature/QtAwesome](https://github.com/gamecreature/QtAwesome) - QtAwesome - Font Awesome for Qt Applications
 - [gali8/Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
 - [mattconnolly/ZipArchive](https://github.com/mattconnolly/ZipArchive) - zip archive processing for Cocoa - iPhone and OS X
 - [ZipArchive/ZipArchive](https://github.com/ZipArchive/ZipArchive) - ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.
@@ -190,7 +191,6 @@
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [buzzySmile/qBreakpad](https://github.com/buzzySmile/qBreakpad) - Cross-platform Qt crash handler, implemented as wrapper around google-breakpad
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-- [gamecreature/QtAwesome](https://github.com/gamecreature/QtAwesome) - QtAwesome - Font Awesome support for Qt applications
 - [shadowsocks/shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) - A cross-platform shadowsocks GUI client
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
@@ -1416,6 +1416,7 @@
 
 ## SCSS 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [NSHipster/nshipster.com](https://github.com/NSHipster/nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 
@@ -1952,7 +1953,6 @@
 
 ## TypeScript 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [WalletConnect/web-examples](https://github.com/WalletConnect/web-examples) - Wallet and dapp examples implementing WalletConnect v2
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
