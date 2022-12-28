@@ -825,7 +825,7 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [gamecreature/QtAwesome](https://github.com/gamecreature/QtAwesome) - QtAwesome - Font Awesome support for Qt applications
+- [gamecreature/QtAwesome](https://github.com/gamecreature/QtAwesome) - QtAwesome - Font Awesome for Qt Applications
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 
