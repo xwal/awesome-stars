@@ -3766,7 +3766,7 @@
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [bgian/Sketch-iOS-Library](https://github.com/bgian/Sketch-iOS-Library) - A library of iOS styles is replicated in Sketch to speed up your workflow.
-- [tinymind/LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in XCode project.
+- [tinymind/LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in Xcode project.
 - [Zewo/Zewo](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
 - [specta/specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa
 - [RobertGummesson/BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift
