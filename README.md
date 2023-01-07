@@ -721,7 +721,7 @@
 - [alibaba/BeeHive](https://github.com/alibaba/BeeHive) - :honeybee: BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
 - [skyline75489/MVVM-DataController-Demo](https://github.com/skyline75489/MVVM-DataController-Demo) - 
 - [tapharmonic/Learning-AV-Foundation](https://github.com/tapharmonic/Learning-AV-Foundation) - Sample code for Bob McCune's Learning AV Foundation book.
-- [tinymind/LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in XCode project.
+- [tinymind/LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in Xcode project.
 - [nicklockwood/GZIP](https://github.com/nicklockwood/GZIP) - A simple NSData category for gzipping/unzipping data in iOS and Mac OS
 - [nicklockwood/AutoCoding](https://github.com/nicklockwood/AutoCoding) - AutoCoding is a category on NSObject that provides automatic support for NSCoding and NSCopying to every object.
 - [Cocoanetics/DTBonjour](https://github.com/Cocoanetics/DTBonjour) - Framework for Communicating over Bonjour+Wifi
