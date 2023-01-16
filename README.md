@@ -231,7 +231,6 @@
 ## CSS 
 
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [KKBOX/kkbox-ios-dev](https://github.com/KKBOX/kkbox-ios-dev) - 
 - [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
@@ -1089,6 +1088,7 @@
 
 ## Others 
 
+- [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the planned Ethereum KZG Ceremony.
 - [evilcos/papers](https://github.com/evilcos/papers) - my open papers
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
@@ -1437,6 +1437,7 @@
 
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3 (semi-)tethered checkm8 jailbreak
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [kodecocodes/mad-materials](https://github.com/kodecocodes/mad-materials) - The projects and materials that accompany the App Design Apprentice book
