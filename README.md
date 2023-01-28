@@ -17,6 +17,7 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
 - [FreeMarker](#freemarker)
 - [Go](#go)
@@ -41,7 +42,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
@@ -270,6 +270,10 @@
 - [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## Dockerfile 
+
+- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 
 ## Erlang 
 
@@ -1089,6 +1093,7 @@
 
 ## Others 
 
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the planned Ethereum KZG Ceremony.
 - [evilcos/papers](https://github.com/evilcos/papers) - my open papers
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
@@ -1269,10 +1274,6 @@
 
 - [XueshiQiao/FLEXLoader](https://github.com/XueshiQiao/FLEXLoader) - A jailbreak iOS device tweak which can load FLEX dynamiclly
 
-## PowerShell 
-
-- [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-
 ## Python 
 
 - [OpenRarity/open-rarity](https://github.com/OpenRarity/open-rarity) - Reference implementation of the OpenRarity protocol with Python.
@@ -1394,6 +1395,7 @@
 
 ## Rust 
 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [a16z/helios](https://github.com/a16z/helios) - A fast, secure, and portable light client for Ethereum
@@ -1508,7 +1510,7 @@
 - [MyEtherWallet/mew-wallet-ios-kit](https://github.com/MyEtherWallet/mew-wallet-ios-kit) - 
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
-- [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Gnosis Safe Multisig iOS app.
+- [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Safe Multisig iOS app.
 - [WalletConnect/WalletConnectSwiftV2](https://github.com/WalletConnect/WalletConnectSwiftV2) - WalletConnect Swift SDK v2
 - [bogo/arm64-to-sim](https://github.com/bogo/arm64-to-sim) - Transmogrify native iOS frameworks to run in iOS Simulator on Apple silicon.
 - [zeriontech/Web3Swift](https://github.com/zeriontech/Web3Swift) - Ethereum Web3 library implementation for Swift
