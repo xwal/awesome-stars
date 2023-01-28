@@ -289,6 +289,7 @@
 
 ## awesome 
 
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -329,6 +330,7 @@
 
 ## awesome-list 
 
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -400,6 +402,7 @@
 
 ## blockchain 
 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [WalletConnect/web-examples](https://github.com/WalletConnect/web-examples) - Wallet and dapp examples implementing WalletConnect v2
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript.
@@ -2009,7 +2012,7 @@
 - [SwiftOldDriver/Salon](https://github.com/SwiftOldDriver/Salon) - 
 - [Base-Labs/contracts](https://github.com/Base-Labs/contracts) - Base Labs contracts repository
 - [safe-global/safe-apps-sdk](https://github.com/safe-global/safe-apps-sdk) - Client-side SDKs to create third-party Safe Apps
-- [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Gnosis Safe Multisig iOS app.
+- [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Safe Multisig iOS app.
 - [ProjectOpenSea/stream-js](https://github.com/ProjectOpenSea/stream-js) - An SDK to receive pushed updates from OpenSea over websocket.
 - [Anish-Agnihotri/flashside](https://github.com/Anish-Agnihotri/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
 - [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
