@@ -81,6 +81,7 @@
 
 ## C 
 
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [OneKeyHQ/firmware](https://github.com/OneKeyHQ/firmware) - 
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
