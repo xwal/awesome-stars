@@ -2123,7 +2123,7 @@
 - [apple/swift-system](https://github.com/apple/swift-system) - Low-level system calls and types for Swift
 - [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
-- [Yeatse/NSURLProtocol-WebKitSupport](https://github.com/Yeatse/NSURLProtocol-WebKitSupport) - Make your WKWebView happy with NSURLProtocol
+- [yeatse/NSURLProtocol-WebKitSupport](https://github.com/yeatse/NSURLProtocol-WebKitSupport) - Make your WKWebView happy with NSURLProtocol
 - [acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion) - Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...
 - [Huntereb/Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 - [creantan/LookinLoader](https://github.com/creantan/LookinLoader) - Lookin - iOS UI Debugging Tweak LookinLoader,Compatible with iOS 8~15
