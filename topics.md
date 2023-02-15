@@ -752,7 +752,7 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
-- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Gnosis Safe allows secure management of blockchain assets.
+- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - Software developer tools that facilitate the interaction with the Safe contracts and services.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
@@ -3302,7 +3302,7 @@
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
-- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Gnosis Safe allows secure management of blockchain assets.
+- [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [zeriontech/Web3Swift](https://github.com/zeriontech/Web3Swift) - Ethereum Web3 library implementation for Swift
