@@ -1996,6 +1996,7 @@
 
 ## others 
 
+- [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
