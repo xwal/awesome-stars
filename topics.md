@@ -2022,7 +2022,7 @@
 - [consenlabs/tokenlon-contracts](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol based on blockchain technology. Visit https://tokenlon.im/
 - [JeaSungLEE/Awesome-Xcode-Behaviors](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors) - 👈Quickly and easily do annoying tasks with xcode shortcuts
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [LearningOS/rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
+- [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - [2023开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 - [NomicFoundation/hardhat-boilerplate](https://github.com/NomicFoundation/hardhat-boilerplate) - 
 - [uber/uber-poet](https://github.com/uber/uber-poet) - A mock swift project generator & build runner to help benchmark various module dependency graphs.
 - [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
