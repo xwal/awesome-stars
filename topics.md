@@ -2700,7 +2700,6 @@
 - [kylef/heroku-buildpack-swift](https://github.com/kylef/heroku-buildpack-swift) - Heroku build pack for Swift
 - [kylef-archive/Curassow](https://github.com/kylef-archive/Curassow) - Swift HTTP server using the pre-fork worker model
 - [liaojinxing/Voice2Note](https://github.com/liaojinxing/Voice2Note) - Voice2Note iOS client source codes.
-- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [GeeTeam/gtapp-ios-oc](https://github.com/GeeTeam/gtapp-ios-oc) - gtapp ios sdk
 - [Spaceman-Labs/SMPageControl](https://github.com/Spaceman-Labs/SMPageControl) - A drop in replacement for UIPageControl with a slew of additional customization options.
