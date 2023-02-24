@@ -300,7 +300,7 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -1182,7 +1182,7 @@
 - [eddiekaiger/SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - A Swifty API for attributed strings
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [jdisho/Papr](https://github.com/jdisho/Papr) - 🌁 An Unsplash app for iOS
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [PavelKatunin/DownloadButton](https://github.com/PavelKatunin/DownloadButton) - Customizable App Store style download button
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [NSHipster/nshipster.com](https://github.com/NSHipster/nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa.
@@ -1664,7 +1664,7 @@
 - [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, su
 - [eddiekaiger/SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - A Swifty API for attributed strings
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [NSHipster/nshipster.com](https://github.com/NSHipster/nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa.
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 
