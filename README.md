@@ -323,7 +323,7 @@
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive and feature-rich Jekyll theme for technical writing.
 - [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 - [awesome-tips/awesome-tips.github.io](https://github.com/awesome-tips/awesome-tips.github.io) - 知识小集官网 https://awesome-tips.github.io/
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
@@ -1407,7 +1407,7 @@
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - [2023开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [consenlabs/token-core](https://github.com/consenlabs/token-core) - Next generation core inside imToken Wallet.
@@ -1968,6 +1968,7 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol v1 monorepo
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿
