@@ -558,6 +558,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) - 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
@@ -1095,7 +1096,7 @@
 ## Others 
 
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
-- [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the planned Ethereum KZG Ceremony.
+- [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the ongoing Ethereum KZG Ceremony.
 - [evilcos/papers](https://github.com/evilcos/papers) - my open papers
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
