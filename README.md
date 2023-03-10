@@ -1095,6 +1095,7 @@
 
 ## Others 
 
+- [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the ongoing Ethereum KZG Ceremony.
 - [evilcos/papers](https://github.com/evilcos/papers) - my open papers
@@ -1479,6 +1480,7 @@
 
 ## Solidity 
 
+- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [artgobblers/art-gobblers](https://github.com/artgobblers/art-gobblers) - An experimental decentralized art factory by Justin Roiland and Paradigm.
 - [code-423n4/2022-09-artgobblers](https://github.com/code-423n4/2022-09-artgobblers) - 
@@ -1971,6 +1973,7 @@
 
 ## TypeScript 
 
+- [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol v1 monorepo
