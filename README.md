@@ -1123,7 +1123,7 @@
 - [WebKit/WebKit-http](https://github.com/WebKit/WebKit-http) - Deprecated unofficial http mirror of the WebKit SVN repository
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [rjstelling/Swift-Gists](https://github.com/rjstelling/Swift-Gists) - A list of Gists containing simple but useful Swift code written by Richard Stelling - @rjstelling
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [iteatimeteam/Friday-QA](https://github.com/iteatimeteam/Friday-QA) - iTeaTime |技术清谈 微信群每周五问答环节
 - [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
 - [monerobook/monerobook](https://github.com/monerobook/monerobook) - Mastering Monero Book
