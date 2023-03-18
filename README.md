@@ -377,6 +377,7 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript 
 
@@ -407,7 +408,7 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
 - [lokesh-coder/blobs.app](https://github.com/lokesh-coder/blobs.app) - Blob shapes generator
-- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted, supports decrypting app extensions and no SSH required
+- [ChiChou/bagbak](https://github.com/ChiChou/bagbak) - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions. No SSH required
 - [x-orpheus/blog](https://github.com/x-orpheus/blog) - 云音乐大前端技术专栏
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Implements hermez network zk-Snarks circuits
 - [hermeznetwork/contracts](https://github.com/hermeznetwork/contracts) - Hermez network protocol smart contracts
@@ -553,7 +554,6 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [henter/ReactNativeRubyChina](https://github.com/henter/ReactNativeRubyChina) - ReactNative iOS APP for RubyChina
 - [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1975,6 +1975,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
