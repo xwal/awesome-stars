@@ -486,7 +486,7 @@
 - [iSparta/iSparta](https://github.com/iSparta/iSparta) - APNG、WebP converter
 - [shift-js/shift-js](https://github.com/shift-js/shift-js) - Swift to JavaScript transpiler
 - [CanonicalLtd/react-native](https://github.com/CanonicalLtd/react-native) - A framework for building native apps with React.
-- [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
 - [JackPu/react-native-tips](https://github.com/JackPu/react-native-tips) - 🐡 Some tips about developing react native app
 - [ProducterTips/producter-book-examples](https://github.com/ProducterTips/producter-book-examples) - All examples in Book Producter http://producter.io
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
