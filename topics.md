@@ -873,7 +873,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## game 
 
@@ -1493,7 +1493,7 @@
 - [henter/ReactNativeRubyChina](https://github.com/henter/ReactNativeRubyChina) - ReactNative iOS APP for RubyChina
 - [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
 ## jekyll-theme 
@@ -1573,7 +1573,7 @@
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
 - [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) - A fully customizable iOS calendar library, compatible with Objective-C and Swift
 - [KrauseFx/TSMessages](https://github.com/KrauseFx/TSMessages) - 💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## linux 
 
@@ -2051,7 +2051,7 @@
 - [consenlabs/tokenlon-contracts](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol based on blockchain technology. Visit https://tokenlon.im/
 - [JeaSungLEE/Awesome-Xcode-Behaviors](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors) - 👈Quickly and easily do annoying tasks with xcode shortcuts
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - [2023开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
+- [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023春夏季开源操作系统训练营
 - [NomicFoundation/hardhat-boilerplate](https://github.com/NomicFoundation/hardhat-boilerplate) - 
 - [uber/uber-poet](https://github.com/uber/uber-poet) - A mock swift project generator & build runner to help benchmark various module dependency graphs.
 - [spotify/XCRemoteCache](https://github.com/spotify/XCRemoteCache) - 
@@ -3158,7 +3158,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
 ## react-native 
 
