@@ -82,7 +82,7 @@
 ## C 
 
 - [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3.1 (semi-)tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.3.1 semi-tethered checkm8 jailbreak
 - [OneKeyHQ/firmware](https://github.com/OneKeyHQ/firmware) - 
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -107,7 +107,6 @@
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [BishopFox/bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Utility to decrypt App Store apps on jailbroken iOS 11.x
 - [whihail/JSPatch---comment](https://github.com/whihail/JSPatch---comment) - JSPatch 是一个不错的 hotfix 框架，可利用 js 脚本修复线上 bug，但是作者 bang 没写注释，阅读源代码后，我添加了部分注释，想快速理解源码的同学可以参考。
-- [XDagger/xdag](https://github.com/XDagger/xdag) - XDAG (Dagger Coin) Official Main Repository.  XDAG is a novel DAG based cryptocurrency.
 - [lexrus/MMDB-Swift](https://github.com/lexrus/MMDB-Swift) - A tiny wrapper for libmaxminddb which allows you to lookup Geo data by IP address.
 - [ming1016/study](https://github.com/ming1016/study) - 学习记录
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) - Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
@@ -177,14 +176,12 @@
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [everettjf/MachOExplorer](https://github.com/everettjf/MachOExplorer) - 🧱Explore MachO File on macOS and Windows
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [ss-abramchuk/OpenVPNAdapter](https://github.com/ss-abramchuk/OpenVPNAdapter) - Objective-C wrapper for OpenVPN library. Compatible with iOS and macOS.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [BernardoGiordano/Checkpoint](https://github.com/BernardoGiordano/Checkpoint) - Fast and simple homebrew save manager for 3DS and Switch.
-- [XDagger/DaggerGpuMiner](https://github.com/XDagger/DaggerGpuMiner) - Standalone GPU/CPU miner for Dagger coin
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [ftylitak/qzxing](https://github.com/ftylitak/qzxing) - Qt/QML wrapper library for the ZXing library.  1D/2D barcode image processing library
@@ -367,6 +364,7 @@
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [wildfirechat/im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统
 - [leanflutter/flutter_flipperkit](https://github.com/leanflutter/flutter_flipperkit) - Flipper (Extensible mobile app debugger) for flutter.
+- [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
@@ -1975,6 +1973,7 @@
 
 ## TypeScript 
 
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
