@@ -3121,7 +3121,7 @@
 
 ## qt 
 
-- [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer that imitation Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
+- [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
 - [ftylitak/qzxing](https://github.com/ftylitak/qzxing) - Qt/QML wrapper library for the ZXing library.  1D/2D barcode image processing library
 - [buzzySmile/qBreakpad](https://github.com/buzzySmile/qBreakpad) - Cross-platform Qt crash handler, implemented as wrapper around google-breakpad
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
