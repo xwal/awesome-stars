@@ -1531,7 +1531,6 @@
 - [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Safe Multisig iOS app.
 - [WalletConnect/WalletConnectSwiftV2](https://github.com/WalletConnect/WalletConnectSwiftV2) - WalletConnect Swift SDK v2
 - [bogo/arm64-to-sim](https://github.com/bogo/arm64-to-sim) - Transmogrify native iOS frameworks to run in iOS Simulator on Apple silicon.
-- [zeriontech/Web3Swift](https://github.com/zeriontech/Web3Swift) - Ethereum Web3 library implementation for Swift
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [brave/brave-ios](https://github.com/brave/brave-ios) - Brave iOS Browser
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
