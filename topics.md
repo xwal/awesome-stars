@@ -2048,6 +2048,7 @@
 
 ## others 
 
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [slowmist/Web3-Project-Security-Practice-Requirements](https://github.com/slowmist/Web3-Project-Security-Practice-Requirements) - 
 - [NeoTeo/gmp-ios-builder](https://github.com/NeoTeo/gmp-ios-builder) - A bash 4 script to build the Gnu Multi Precision library as a framework for iOS devices (and Simulators).
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
