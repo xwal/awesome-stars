@@ -2427,7 +2427,7 @@
 - [TextureGroup/Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-- [ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+- [AndrewHartAR/ARKit-CoreLocation](https://github.com/AndrewHartAR/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 - [zhuhaow/NEKit](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework
 - [DeveloperLx/macOS_Development_Tutorials_translation](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation) - Translation of macOS development tutorials.
 - [agilie/AGVolumeControlView](https://github.com/agilie/AGVolumeControlView) - Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic
