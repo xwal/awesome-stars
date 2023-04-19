@@ -680,7 +680,7 @@
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 - [BiBoyang/GoldHouse-for-iOS](https://github.com/BiBoyang/GoldHouse-for-iOS) - iOS APM
 - [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
-- [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files
+- [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for mobile apps and provisioning profiles
 - [skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization) - 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit
 - [facebookarchive/WebDriverAgent](https://github.com/facebookarchive/WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [joeldev/JLRoutes](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API
