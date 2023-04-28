@@ -428,7 +428,7 @@
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - A tool for creating a local blockchain for fast Ethereum development.
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
@@ -792,7 +792,7 @@
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - A tool for creating a local blockchain for fast Ethereum development.
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
@@ -1035,7 +1035,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4.1 semi-tethered checkm8 jailbreak
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -1165,7 +1165,7 @@
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 - [infinum/iOS-VIPER-Xcode-Templates](https://github.com/infinum/iOS-VIPER-Xcode-Templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4 semi-tethered checkm8 jailbreak
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4.1 semi-tethered checkm8 jailbreak
 - [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
@@ -1473,7 +1473,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
@@ -3378,7 +3378,7 @@
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -3754,7 +3754,7 @@
 - [lensterxyz/lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - Software developer tools that facilitate the interaction with the Safe contracts and services.
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
