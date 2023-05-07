@@ -2839,7 +2839,7 @@
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil) - For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
 - [zulip/zulip-ios-legacy](https://github.com/zulip/zulip-ios-legacy) - Zulip legacy iOS app
-- [questbeat/Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
+- [nek023/Lin](https://github.com/nek023/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
 - [ruanyf/react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [molon/MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin which help you write code faster.
