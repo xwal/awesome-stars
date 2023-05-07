@@ -929,7 +929,7 @@
 - [matthiasgasser/IOKitBrowser](https://github.com/matthiasgasser/IOKitBrowser) - Hardware Browser for iOS
 - [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil) - For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
 - [zulip/zulip-ios-legacy](https://github.com/zulip/zulip-ios-legacy) - Zulip legacy iOS app
-- [questbeat/Lin](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
+- [nek023/Lin](https://github.com/nek023/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
 - [molon/MLAutoReplace](https://github.com/molon/MLAutoReplace) - Xcode plugin which help you write code faster.
 - [lxcid/LXReorderableCollectionViewFlowLayout](https://github.com/lxcid/LXReorderableCollectionViewFlowLayout) - Extends `UICollectionViewFlowLayout` to support reordering of cells. Similar to long press and pan on books in iBook.
 - [panghaijiao/HJCarouselDemo](https://github.com/panghaijiao/HJCarouselDemo) - 
