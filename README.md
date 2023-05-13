@@ -1345,7 +1345,6 @@
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [redstoneleo/BingNiceWallpapers](https://github.com/redstoneleo/BingNiceWallpapers) - get background images from http://www.bing.com/?mkt=zh-CN and set them as the wallpaper of your PC desktop
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [FinalTheory/wireless-network-reproduction](https://github.com/FinalTheory/wireless-network-reproduction) - Advanced network emulation solution.
 - [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) - Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
