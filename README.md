@@ -1984,6 +1984,7 @@
 
 ## TypeScript 
 
+- [unisat-wallet/extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
 - [l2beat/l2beat](https://github.com/l2beat/l2beat) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -2005,7 +2006,7 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [safe-global/safe-apps-sdk](https://github.com/safe-global/safe-apps-sdk) - Client-side SDKs to create third-party Safe Apps
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
-- [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - Software developer tools that facilitate the interaction with the Safe contracts and services.
+- [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - The Safe{Core} Account abstraction SDK allows builders to add account abstraction functionality into their apps.
 - [ProjectOpenSea/stream-js](https://github.com/ProjectOpenSea/stream-js) - An SDK to receive pushed updates from OpenSea over websocket.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [script-money/ens-claim-flashbot-example](https://github.com/script-money/ens-claim-flashbot-example) - save airdrop in hacked wallet example
