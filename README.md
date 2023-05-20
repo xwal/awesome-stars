@@ -2007,7 +2007,7 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [safe-global/safe-apps-sdk](https://github.com/safe-global/safe-apps-sdk) - Client-side SDKs to create third-party Safe Apps
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
-- [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - The Safe{Core} Account abstraction SDK allows builders to add account abstraction functionality into their apps.
+- [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - The Safe{Core} Account Abstraction SDK allows builders to add account abstraction functionality into their apps.
 - [ProjectOpenSea/stream-js](https://github.com/ProjectOpenSea/stream-js) - An SDK to receive pushed updates from OpenSea over websocket.
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [script-money/ens-claim-flashbot-example](https://github.com/script-money/ens-claim-flashbot-example) - save airdrop in hacked wallet example
