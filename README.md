@@ -7,7 +7,6 @@
 
 - [ApacheConf](#apacheconf)
 - [AsciiDoc](#asciidoc)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -68,10 +67,6 @@
 ## AsciiDoc 
 
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Batchfile 
 
@@ -2037,6 +2032,7 @@
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
