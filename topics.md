@@ -815,7 +815,7 @@
 - [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [Boilertalk/Web3.swift](https://github.com/Boilertalk/Web3.swift) - A pure swift Ethereum Web3 library
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+- [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [argentlabs/web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [tyrchen/unchained](https://github.com/tyrchen/unchained) - My personal study of blockchain related technology.
@@ -1057,7 +1057,7 @@
 - [xcpretty/xcode-install](https://github.com/xcpretty/xcode-install) - 🔽 Install and update your Xcodes
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+- [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
