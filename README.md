@@ -1286,6 +1286,7 @@
 
 ## Python 
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [OpenRarity/open-rarity](https://github.com/OpenRarity/open-rarity) - Reference implementation of the OpenRarity protocol with Python.
@@ -1520,7 +1521,7 @@
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
