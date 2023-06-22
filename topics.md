@@ -2085,6 +2085,7 @@
 
 ## others 
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -2099,7 +2100,7 @@
 - [matter-labs/zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) - A Metrics API for Swift
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the ongoing Ethereum KZG Ceremony.
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
