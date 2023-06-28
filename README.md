@@ -1111,7 +1111,7 @@
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023春夏季开源操作系统训练营
 - [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly) - Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
-- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [SwiftOldDriver/Salon](https://github.com/SwiftOldDriver/Salon) - 
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
