@@ -1490,6 +1490,7 @@
 
 ## Solidity 
 
+- [WTFAcademy/WTF-CTF](https://github.com/WTFAcademy/WTF-CTF) - Collect CTFs related to evm, and provide solutions, using Foundry. 收集 EVM 类的 CTF 挑战，并提供解决方案。
 - [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
