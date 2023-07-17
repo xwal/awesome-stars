@@ -1522,6 +1522,7 @@
 
 ## Swift 
 
+- [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
@@ -1874,7 +1875,7 @@
 - [marmelroy/Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift friendly localization and i18n with in-app language switching
 - [wookiee/cocoa-programming-for-osx-5e](https://github.com/wookiee/cocoa-programming-for-osx-5e) - Solutions and errata for Cocoa Programming for OS X, 5th Edition. https://www.bignerdranch.com/we-write/cocoa-programming/
 - [remirobert/ProducthuntOSX](https://github.com/remirobert/ProducthuntOSX) - Product hunt application for OS X
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
+- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 - [socketio/socket.io-client-swift](https://github.com/socketio/socket.io-client-swift) - 
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [optonaut/ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift
