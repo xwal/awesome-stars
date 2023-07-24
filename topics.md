@@ -1104,7 +1104,6 @@
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1507,7 +1506,7 @@
 - [Lision/WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [momotech/MLN](https://github.com/momotech/MLN) - 高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability
@@ -2097,6 +2096,7 @@
 
 ## others 
 
+- [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
@@ -2171,7 +2171,7 @@
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [flashbots/pm](https://github.com/flashbots/pm) - Everything there is to know about Flashbots
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 - [ReactKit/SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
@@ -2188,7 +2188,7 @@
 - [greatcodeeer/iPhone-Pickup-Monitor](https://github.com/greatcodeeer/iPhone-Pickup-Monitor) - iPhone取货预约助手
 - [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
-- [kodecocodes/comb-materials](https://github.com/kodecocodes/comb-materials) - The projects and the materials that accompany the Combine: Asynchronous Programming with Swift Book
+- [kodecocodes/comb-materials](https://github.com/kodecocodes/comb-materials) - The projects and the materials that accompany the Combine: Asynchronous Programming With Swift Book
 - [slowmist/cryptocurrency-security](https://github.com/slowmist/cryptocurrency-security) - 加密资产安全解决方案 Cryptocurrency Security Solution
 - [TP-Lab/tokens](https://github.com/TP-Lab/tokens) - Token assets for TokenPocket
 - [libfly/Moxture](https://github.com/libfly/Moxture) - 
@@ -2568,7 +2568,7 @@
 - [mariohahn/StatusProvider](https://github.com/mariohahn/StatusProvider) - Protocol to handle initial Loadings, Empty Views and Error Handling in a ViewController & views
 - [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) - A list of Awesome Server Side Swift 3 projects
 - [Meiqia/MQChatViewController](https://github.com/Meiqia/MQChatViewController) - 美洽开源的聊天界面。
-- [nxdm/linke](https://github.com/nxdm/linke) - 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。提供一个搭建思路，很久没有更新了，望谅解！🤡
+- [liamxujia/linke](https://github.com/liamxujia/linke) - 本项目实现了作为一个直播App的基本功能，比如本地视频流采集、播放、美颜、礼物、点赞出心等。提供一个搭建思路，很久没有更新了，望谅解！🤡
 - [samvermette/SVSegmentedControl](https://github.com/samvermette/SVSegmentedControl) - A UISwitch-like segmented control for your iOS app.
 - [leancloud/LeanCloudLiveKit-iOS](https://github.com/leancloud/LeanCloudLiveKit-iOS) - Show how to add IM module to Live app
 - [iSparta/iSparta](https://github.com/iSparta/iSparta) - APNG、WebP converter
