@@ -84,6 +84,7 @@
 
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
+- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 - [OneKeyHQ/firmware](https://github.com/OneKeyHQ/firmware) - 
@@ -1035,7 +1036,7 @@
 - [Yalantis/Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) - This project aims to provide a simple and customizable pull to refresh implementation. Made in Yalantis
 - [Yalantis/Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS) - You can easily add awesome animated context menu to your app.
 - [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD + Customizations
-- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+- [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS
 - [CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.
 - [nrj/ParallaxAlbumCoverFlow](https://github.com/nrj/ParallaxAlbumCoverFlow) - Parallax album cover flow with UICollectionView.
 - [BlocksKit/BlocksKit](https://github.com/BlocksKit/BlocksKit) - The Objective-C block utilities you always wish you had.
@@ -1527,6 +1528,7 @@
 
 ## Swift 
 
+- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -1535,7 +1537,6 @@
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
-- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
