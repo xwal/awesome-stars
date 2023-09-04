@@ -2209,7 +2209,7 @@
 - [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache) - 
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Implements hermez network zk-Snarks circuits
 - [hermeznetwork/contracts](https://github.com/hermeznetwork/contracts) - Hermez network protocol smart contracts
 - [futurerestore/futurerestore](https://github.com/futurerestore/futurerestore) - A hacked up idevicerestore wrapper, which allows specifying SEP and Baseband for restoring
