@@ -12,7 +12,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -156,6 +155,7 @@
 
 ## C# # 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 
@@ -164,6 +164,7 @@
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Safeheron/tss-rsa-cpp](https://github.com/Safeheron/tss-rsa-cpp) - A library for tss-rsa according to paper Practical Threshold Signatures.
+- [Safeheron/safeheron-crypto-suites-cpp](https://github.com/Safeheron/safeheron-crypto-suites-cpp) - An assembly of all the basic libraries and cryptography protocols from Safeheron.
 - [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
@@ -234,10 +235,6 @@
 - [KDAB/KDSoap](https://github.com/KDAB/KDSoap) - A Qt-based client-side and server-side SOAP component
 - [zonyitoo/doubanfm-qt](https://github.com/zonyitoo/doubanfm-qt) - A DoubanFM client
 
-## CMake 
-
-- [Safeheron/safeheron-crypto-suites-cpp](https://github.com/Safeheron/safeheron-crypto-suites-cpp) - An assembly of all the basic libraries and cryptography protocols from Safeheron.
-
 ## CSS 
 
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
@@ -248,7 +245,7 @@
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作`sorry 为所欲为`的gif
-- [30-seconds/30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 - [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips) - iOS知识小集
 - [shisiying/tc_zufang](https://github.com/shisiying/tc_zufang) - 使用scrapy,redis, mongodb,django实现的一个分布式网络爬虫,底层存储mongodb,分布式使用redis实现,使用django可视化爬虫
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -464,7 +461,7 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -600,7 +597,7 @@
 ## Logos 
 
 - [jjolano/shadow](https://github.com/jjolano/shadow) - A jailbreak detection bypass for modern iOS jailbreaks.
-- [XLsn0w/Cydia](https://github.com/XLsn0w/Cydia) - 🔥🔥🔥微信公众号: XLsnow🔥🔥🔥=&gt; Cydia插件 Logos语言 开发Tweak.xm Cydia Substrate 注入dylib iOS逆向工程开发 越狱Jailbreak deb插件 - fishhook / Frida / iOSOpenDev / Cycript / MachOView /  IDA / Hopper Disassembler / MonkeyDev /
+- [XLsn0w/Cydia](https://github.com/XLsn0w/Cydia) - 🔥🔥🔥微信公众号:Cydiapps🔥🔥🔥            =&gt; Cydia插件 Logos语言 开发Tweak.xm Cydia Substrate 注入dylib iOS逆向工程开发 越狱Jailbreak deb插件 - fishhook / Frida / iOSOpenDev / Cycript / MachOView /  IDA / Hopper Disassembler 
 - [creantan/LookinLoader](https://github.com/creantan/LookinLoader) - Lookin - iOS UI Debugging Tweak LookinLoader,Compatible with iOS 8~15
 - [NSExceptional/FLEXing](https://github.com/NSExceptional/FLEXing) - A simple tweak to activate a FLEX explorer window
 
@@ -1316,6 +1313,7 @@
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
+- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [greatcodeeer/iPhone-Pickup-Monitor](https://github.com/greatcodeeer/iPhone-Pickup-Monitor) - iPhone取货预约助手
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
@@ -1530,7 +1528,6 @@
 - [CodeforDAO/contracts](https://github.com/CodeforDAO/contracts) - Solidity smart contracts of CodeforDAO
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - A Prettier plugin for automatically formatting your Solidity code.
 - [chiru-labs/ERC721A](https://github.com/chiru-labs/ERC721A) - https://ERC721A.org
-- [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 
 ## Stylus 
 
