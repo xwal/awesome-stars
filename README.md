@@ -82,6 +82,7 @@
 
 ## C 
 
+- [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -299,7 +300,6 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
@@ -585,7 +585,6 @@
 
 ## Kotlin 
 
-- [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -754,7 +753,7 @@
 - [liuzhiyi1992/ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 - [ko1o/PYSearch](https://github.com/ko1o/PYSearch) - 🔍 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
 - [callumboddy/CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind
-- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications displayed below the status bar. iOS 13+. Swift ready!
+- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications. Interactive dismiss. Custom Views. SwiftUI. Tap-to-hold.
 - [iosre/SMSNinja](https://github.com/iosre/SMSNinja) - SMSNinja is a lightweight but highly efficient firewall for blocking and hiding SMS, MMS, iMessages, phone calls and FaceTime on stock Phone and Message Apps.
 - [kokoabim/iOSOpenDev](https://github.com/kokoabim/iOSOpenDev) - iOSOpenDev
 - [objcio/issue-3-collection-view-layouts](https://github.com/objcio/issue-3-collection-view-layouts) - 
@@ -1109,6 +1108,7 @@
 
 ## Others 
 
+- [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
 - [slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
@@ -1471,6 +1471,7 @@
 
 ## Shell 
 
+- [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
 - [NeoTeo/gmp-ios-builder](https://github.com/NeoTeo/gmp-ios-builder) - A bash 4 script to build the Gnu Multi Precision library as a framework for iOS devices (and Simulators).
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -1582,7 +1583,6 @@
 - [trustwallet/TrustSDK-iOS](https://github.com/trustwallet/TrustSDK-iOS) - No longer maintained. https://community.trustwallet.com/t/trustsdk-is-discontinued/213116
 - [trustwallet/wallet-connect-swift](https://github.com/trustwallet/wallet-connect-swift) - WalletConnect Swift client SDK
 - [square/Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery) - A tool to identify unused code in Swift projects.
 - [Lision/WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -1668,7 +1668,6 @@
 - [Baddaboo/ClassicKit](https://github.com/Baddaboo/ClassicKit) - 💾 A collection of classic-style UI components for iOS
 - [zhuhaow/Specht](https://github.com/zhuhaow/Specht) - A rule-based proxy app built with Network Extension for macOS
 - [ReactKit/ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
-- [yichengchen/RabbitVpnDemo](https://github.com/yichengchen/RabbitVpnDemo) - a demo project for testing iOS network extension with NEkit
 - [haxpor/Potatso](https://github.com/haxpor/Potatso) - Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework. ***This project is unmaintained, try taking a look at this fork https://github.com/shadowcoe
 - [stencilproject/Stencil](https://github.com/stencilproject/Stencil) - Stencil is a simple and powerful template language for Swift.
 - [benjaminmayo/merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
@@ -2009,6 +2008,7 @@
 
 ## TypeScript 
 
+- [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐基于iztro实现的紫微斗数星盘React组件。A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu.
 - [unisat-wallet/extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
 - [l2beat/l2beat](https://github.com/l2beat/l2beat) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
