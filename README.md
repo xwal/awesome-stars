@@ -191,7 +191,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [everettjf/MachOExplorer](https://github.com/everettjf/MachOExplorer) - 🧱Explore MachO File on macOS and Windows
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ss-abramchuk/OpenVPNAdapter](https://github.com/ss-abramchuk/OpenVPNAdapter) - Objective-C wrapper for OpenVPN library. Compatible with iOS and macOS.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -565,7 +565,7 @@
 - [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) - Hacker News iOS and Android App - Made with React Native.
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## Jupyter Notebook 
 
@@ -644,6 +644,7 @@
 
 ## Objective-C 
 
+- [hughkli/Lookin](https://github.com/hughkli/Lookin) - Free macOS app for iOS view debugging.
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 - [renebigot/XlsxReaderWriter](https://github.com/renebigot/XlsxReaderWriter) - XlsxReaderWriter is an Objective-C library for iPhone / iPad and Mac. It parses and writes MS Excel XLSX files.
 - [tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated) - A skeleton screen loading framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)
@@ -2007,6 +2008,8 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [unisat-wallet/extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
 - [l2beat/l2beat](https://github.com/l2beat/l2beat) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.
