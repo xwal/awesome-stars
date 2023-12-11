@@ -82,6 +82,7 @@
 
 ## C 
 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
@@ -162,6 +163,7 @@
 
 ## C++ 
 
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [Safeheron/tss-rsa-cpp](https://github.com/Safeheron/tss-rsa-cpp) - A library for tss-rsa according to paper Practical Threshold Signatures.
@@ -754,7 +756,6 @@
 - [liuzhiyi1992/ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter) - Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 - [ko1o/PYSearch](https://github.com/ko1o/PYSearch) - 🔍 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
 - [callumboddy/CBZSplashView](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind
-- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications. Interactive dismiss. Custom Views. SwiftUI. Tap-to-hold. Progress.
 - [iosre/SMSNinja](https://github.com/iosre/SMSNinja) - SMSNinja is a lightweight but highly efficient firewall for blocking and hiding SMS, MMS, iMessages, phone calls and FaceTime on stock Phone and Message Apps.
 - [kokoabim/iOSOpenDev](https://github.com/kokoabim/iOSOpenDev) - iOSOpenDev
 - [objcio/issue-3-collection-view-layouts](https://github.com/objcio/issue-3-collection-view-layouts) - 
@@ -1795,6 +1796,7 @@
 - [ruby-china/ruby-china-ios](https://github.com/ruby-china/ruby-china-ios) - Ruby China iOS via Turbolinks
 - [skylab-inc/Lightning](https://github.com/skylab-inc/Lightning) - A Swift Multiplatform Single-threaded Non-blocking Web and Networking Framework
 - [rodionovd/SWRoute](https://github.com/rodionovd/SWRoute) - PoC of function hooking in Swift
+- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications. Interactive dismiss. Custom Views. SwiftUI. Tap-to-hold. Progress.
 - [toolinbox/iPicUploader](https://github.com/toolinbox/iPicUploader) - Use iPic to upload images on macOS.
 - [MDCC2016/ProtocolNetwork](https://github.com/MDCC2016/ProtocolNetwork) - Sample project to show how to use protocol/extension to build a network layer
 - [Zewo/Zewo](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
@@ -2049,7 +2051,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 An open source interface for the Uniswap protocol
+- [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [Uniswap/v2-core](https://github.com/Uniswap/v2-core) - 🦄 🦄  Core smart contracts of Uniswap V2
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
