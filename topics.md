@@ -89,6 +89,7 @@
 - [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
+- [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
@@ -202,7 +203,7 @@
 
 ## ai 
 
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -414,6 +415,7 @@
 
 - [unisat-wallet/extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
 - [ChainAgnostic/CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals
+- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [merkletreejs/merkletreejs](https://github.com/merkletreejs/merkletreejs) - 🌱 Construct Merkle Trees and verify proofs in JavaScript.
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
@@ -500,7 +502,7 @@
 
 ## chatgpt 
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -645,6 +647,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [lokesh-coder/flutter_blobs](https://github.com/lokesh-coder/flutter_blobs) - Generate Blob shapes for flutter apps
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
@@ -890,6 +893,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [lokesh-coder/flutter_blobs](https://github.com/lokesh-coder/flutter_blobs) - Generate Blob shapes for flutter apps
@@ -1187,6 +1191,10 @@
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [mattt/Ono](https://github.com/mattt/Ono) - A sensible way to deal with XML & HTML for iOS & macOS
 
+## html5 
+
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+
 ## http 
 
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -1378,7 +1386,7 @@
 - [ruby-china/ruby-china-ios](https://github.com/ruby-china/ruby-china-ios) - Ruby China iOS via Turbolinks
 - [zekunyan/TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Useful for showing text or custom view tags in a vertical or horizontal scrollable view and support Autolayout at the same time. It is highly customizable that most features of the text tag can be con
 - [ko1o/PYSearch](https://github.com/ko1o/PYSearch) - 🔍 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
-- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications. Interactive dismiss. Custom Views. SwiftUI. Tap-to-hold. Progress.
+- [calimarkus/JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification) - Highly customizable & feature rich notifications. Interactive dismiss. Custom Views. SwiftUI. Tap-to-hold. Progress. Written in Swift, compatible for ObjC!
 - [CosmicMind/Material](https://github.com/CosmicMind/Material) - A UI/UX framework for creating beautiful applications.
 - [timdonnelly/Advance](https://github.com/timdonnelly/Advance) - Physics-based animations for iOS, tvOS, and macOS.
 - [shu223/iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) - Code examples for new APIs of iOS 10.
@@ -1948,7 +1956,7 @@
 
 ## nextjs 
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2138,6 +2146,8 @@
 
 ## others 
 
+- [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
+- [QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [hughkli/Lookin](https://github.com/hughkli/Lookin) - Free macOS app for iOS view debugging.
@@ -2164,7 +2174,6 @@
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [apple/swift-format](https://github.com/apple/swift-format) - Formatting technology for Swift source code
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) - Metrics API for Swift
-- [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [ethereum/kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the ongoing Ethereum KZG Ceremony.
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
@@ -2200,7 +2209,7 @@
 - [Base-Labs/contracts](https://github.com/Base-Labs/contracts) - Base Labs contracts repository
 - [safe-global/safe-apps-sdk](https://github.com/safe-global/safe-apps-sdk) - Client-side SDKs to create third-party Safe Apps
 - [safe-global/safe-ios](https://github.com/safe-global/safe-ios) - Safe Multisig iOS app.
-- [ProjectOpenSea/stream-js](https://github.com/ProjectOpenSea/stream-js) - An SDK to receive pushed updates from OpenSea over websocket.
+- [ProjectOpenSea/stream-js](https://github.com/ProjectOpenSea/stream-js) - A TypeScript SDK to receive pushed updates from OpenSea over websocket.
 - [Anish-Agnihotri/flashside](https://github.com/Anish-Agnihotri/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
 - [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
@@ -2378,7 +2387,7 @@
 - [atomicobject/objection](https://github.com/atomicobject/objection) - A lightweight dependency injection framework for Objective-C
 - [MoZhouqi/KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for 
 - [coderZsq/coderZsq.practice.native](https://github.com/coderZsq/coderZsq.practice.native) - For advanced moblie-end development technique pre-research & ideas & practice. ( Focus areas: Native )
-- [olivia2k/SXOS-CheatDB](https://github.com/olivia2k/SXOS-CheatDB) - This is a collection of cheat codes for use with Team Xecuter's SXOS CFW on Nintendo Switch
+- [skylar2k/SXOS-CheatDB](https://github.com/skylar2k/SXOS-CheatDB) - This is a collection of cheat codes for use with Team Xecuter's SXOS CFW on Nintendo Switch
 - [indulgeIn/YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler) - iOS 任务调度器，为 CPU 和内存减负（用于性能优化）
 - [ruslanskorb/RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.
 - [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
@@ -3202,7 +3211,7 @@
 
 ## python 
 
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -3269,7 +3278,7 @@
 
 ## react 
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol v1 monorepo
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
