@@ -228,6 +228,7 @@
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 - [facebook/proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [brofield/simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files
 - [haoel/leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 - [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -391,7 +392,6 @@
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript 
 
@@ -1113,6 +1113,7 @@
 
 ## Others 
 
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
 - [slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
