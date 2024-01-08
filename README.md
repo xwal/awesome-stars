@@ -140,7 +140,6 @@
 - [pili-engineering/PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) - PLCameraStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，是带有采集模块老版本 SDK。如果是新用户接入，建议使用 PLMediaStreamingKit。该版本支持 RTMP 推流，h.264 和 AAC 编码，硬编软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [webmproject/libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests.
 - [cloudwu/mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel
@@ -224,6 +223,7 @@
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
@@ -346,7 +346,7 @@
 - [bannzai/SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [utom/sketch-measure](https://github.com/utom/sketch-measure) - Make it a fun to create spec for developers and teammates
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [boostorg/boost](https://github.com/boostorg/boost) - Super-project for modularized Boost
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -395,6 +395,7 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
@@ -1113,7 +1114,7 @@
 
 ## Others 
 
-- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
 - [slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
@@ -1520,7 +1521,6 @@
 - [WTFAcademy/WTF-CTF](https://github.com/WTFAcademy/WTF-CTF) - Collect CTFs related to evm, and provide solutions, using Foundry. 收集 EVM 类的 CTF 挑战，并提供解决方案。
 - [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4
 - [Uniswap/v4-core](https://github.com/Uniswap/v4-core) - 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4
-- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [artgobblers/art-gobblers](https://github.com/artgobblers/art-gobblers) - An experimental decentralized art factory by Justin Roiland and Paradigm.
 - [LayerZero-Labs/LayerZero](https://github.com/LayerZero-Labs/LayerZero) - An Omnichain Interoperability Protocol
@@ -1542,6 +1542,7 @@
 
 ## Swift 
 
+- [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
@@ -2022,6 +2023,7 @@
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol v1 monorepo
