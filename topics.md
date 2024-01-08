@@ -747,6 +747,7 @@
 
 ## documentation 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
@@ -1085,6 +1086,7 @@
 
 ## hacktoberfest 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -1527,6 +1529,7 @@
 
 ## javascript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All 🌈
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
@@ -2146,6 +2149,8 @@
 
 ## others 
 
+- [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -2534,7 +2539,7 @@
 - [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
 - [lijinma/wechat_spider](https://github.com/lijinma/wechat_spider) - 使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。
 - [jeffreybergier/Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 - [renjinkui2719/DIS_KVC_KVO](https://github.com/renjinkui2719/DIS_KVC_KVO) - Objective-C KVC, KVO的实现源码，根据 Foundation.framework汇编反写而来,还原iOS对KVO,KVC的真实实现
 - [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
@@ -3539,6 +3544,7 @@
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [Flight-School/AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values
 - [Boilertalk/Web3.swift](https://github.com/Boilertalk/Web3.swift) - A pure swift Ethereum Web3 library
+- [everettjf/ScriptWidget](https://github.com/everettjf/ScriptWidget) - ScriptWidget is an iOS app that we can create widgets for iOS using JSX label style in JavaScript.
 - [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
@@ -3874,6 +3880,7 @@
 
 ## typescript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
