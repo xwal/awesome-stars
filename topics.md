@@ -69,6 +69,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -118,6 +119,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [monero](#monero)
@@ -206,6 +208,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [Bytom/bytom](https://github.com/Bytom/bytom) - Official Go implementation of the Bytom protocol
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
 ## ajax 
@@ -318,7 +321,7 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [rekihattori/awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -831,12 +834,13 @@
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x) - ArgentX browser extension for StarkNet - made with ❤️ by Argent
+- [argentlabs/argent-contracts](https://github.com/argentlabs/argent-contracts) - Smart Contracts for Argent Wallet
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [Uniswap/v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
-- [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
+- [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts) - Safe allows secure management of blockchain assets.
 - [safe-global/safe-core-sdk](https://github.com/safe-global/safe-core-sdk) - The Safe{Core} Account Abstraction SDK allows builders to add account abstraction functionality into their apps.
@@ -914,6 +918,13 @@
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+
+## flutter-apps 
+
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [w4mxl/V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## font 
 
@@ -1071,7 +1082,7 @@
 ## graphql 
 
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
-- [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
+- [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) - GitHub iOS client in RxSwift and MVVM-C clean architecture
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1086,7 +1097,6 @@
 
 ## hacktoberfest 
 
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -1394,7 +1404,7 @@
 - [shu223/iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler) - Code examples for new APIs of iOS 10.
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
-- [ivanschuetz/SwiftCharts](https://github.com/ivanschuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+- [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [jessesquires/JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - [Deprecated] A lightweight Swift WebKit view controller for iOS
 - [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy) - 📱 Wire for iOS (iPhone and iPad)
 - [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
@@ -1807,7 +1817,7 @@
 - [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, su
 - [eddiekaiger/SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - A Swifty API for attributed strings
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [NSHipster/nshipster.com](https://github.com/NSHipster/nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa.
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
@@ -1890,6 +1900,12 @@
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [jonathantribouharet/JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
+
+## microsoft 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 
 ## minecraft 
 
@@ -2159,7 +2175,6 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [apple-oss-distributions/xnu](https://github.com/apple-oss-distributions/xnu) - 
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
-- [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
 - [slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor) - Smart contract audit skills roadmap for beginners, auditors, engineers, etc.
 - [nicoboss/nsz](https://github.com/nicoboss/nsz) - NSZ - Homebrew compatible NSP/XCI compressor/decompressor
 - [julesontheroad/NSC_BUILDER](https://github.com/julesontheroad/NSC_BUILDER) - Nintendo Switch Cleaner and Builder. A batchfile, python and html script based in hacbuild and Nut's python libraries. Designed initially to erase titlerights encryption from nsp files and make multic
@@ -2195,7 +2210,6 @@
 - [LayerZero-Labs/solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
 - [Railgun-Privacy/contract](https://github.com/Railgun-Privacy/contract) - Railgun Contracts
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
-- [argentlabs/argent-contracts](https://github.com/argentlabs/argent-contracts) - Smart Contracts for Argent Wallet
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 - [consenlabs/tokenlon-contracts](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol based on blockchain technology. Visit https://tokenlon.im/
 - [JeaSungLEE/Awesome-Xcode-Behaviors](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors) - 👈Quickly and easily do annoying tasks with xcode shortcuts
@@ -2354,7 +2368,6 @@
 - [awesome-tips/awesome-tips.github.io](https://github.com/awesome-tips/awesome-tips.github.io) - 知识小集官网 https://awesome-tips.github.io/
 - [wildfirechat/im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-- [w4mxl/V2LF](https://github.com/w4mxl/V2LF) - The v2ex client write in flutter.
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [CocoaPods/cocoapods-packager](https://github.com/CocoaPods/cocoapods-packager) - CocoaPods plugin which allows you to generate a static library from a podspec.
 - [CocoaPods/Xcodeproj](https://github.com/CocoaPods/Xcodeproj) - Create and modify Xcode projects from Ruby.
@@ -2928,7 +2941,6 @@
 - [alexdrone/ios-fontawesome](https://github.com/alexdrone/ios-fontawesome) - NSString+FontAwesome
 - [ReactKit/SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel + retry for Swift.
 - [matthiasgasser/IOKitBrowser](https://github.com/matthiasgasser/IOKitBrowser) - Hardware Browser for iOS
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [InderKumarRathore/DeviceUtil](https://github.com/InderKumarRathore/DeviceUtil) - For Swift please visit DeviceGuru(https://github.com/InderKumarRathore/DeviceGuru)
 - [zulip/zulip-ios-legacy](https://github.com/zulip/zulip-ios-legacy) - Zulip legacy iOS app
 - [nek023/Lin](https://github.com/nek023/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
@@ -3289,7 +3301,7 @@
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
-- [PaulRBerg/create-eth-app](https://github.com/PaulRBerg/create-eth-app) - Create Ethereum-powered apps with one command
+- [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
@@ -3496,6 +3508,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
+- [argentlabs/argent-contracts](https://github.com/argentlabs/argent-contracts) - Smart Contracts for Argent Wallet
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
@@ -3704,7 +3717,7 @@
 - [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 - [timdonnelly/Advance](https://github.com/timdonnelly/Advance) - Physics-based animations for iOS, tvOS, and macOS.
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
-- [ivanschuetz/SwiftCharts](https://github.com/ivanschuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+- [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [jessesquires/JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - [Deprecated] A lightweight Swift WebKit view controller for iOS
 - [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy) - 📱 Wire for iOS (iPhone and iPad)
 - [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
