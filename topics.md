@@ -113,6 +113,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -223,6 +224,7 @@
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [ra1028/DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -568,6 +570,7 @@
 ## coding 
 
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
 
 ## compiler 
@@ -1731,6 +1734,10 @@
 
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 
+## low-code 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+
 ## lua 
 
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
@@ -1749,6 +1756,7 @@
 ## machine-learning 
 
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -3076,7 +3084,7 @@
 - [mamaral/Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
 - [FormatterKit/FormatterKit](https://github.com/FormatterKit/FormatterKit) - `stringWithFormat:` for the sophisticated hacker set
 - [jhurray/JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) - Easy to read and write chainable animations in Objective-C and Swift
-- [ameizi/awesome-ios-chart](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift
+- [v5tech/awesome-ios-chart](https://github.com/v5tech/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift
 - [erndev/EDStarRating](https://github.com/erndev/EDStarRating) - Configurable Star Rating control for iOS and OSX
 - [Sumi-Interactive/SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) - An UIAlertView replacement with block syntax and fancy transition styles.
 - [facebookarchive/react-native-applinks](https://github.com/facebookarchive/react-native-applinks) - AppLinks support for React Native.
@@ -3098,8 +3106,8 @@
 - [BlocksKit/BlocksKit](https://github.com/BlocksKit/BlocksKit) - The Objective-C block utilities you always wish you had.
 - [Sephiroth87/ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl) - A pull down to refresh control like the one in Apple's iOS6 Mail App
 - [ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) - CollectionView做的两级菜单，可以折叠第二级菜单
-- [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
-- [ameizi/notes](https://github.com/ameizi/notes) - notes
+- [v5tech/awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
+- [v5tech/notes](https://github.com/v5tech/notes) - notes
 - [mutualmobile/MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - A lightweight, easy to use, Side Drawer Navigation Controller
 - [alekseyn/EasyTableView](https://github.com/alekseyn/EasyTableView) - Horizontal and vertical scrolling table views for iOS
 - [agusso/ASOXScrollTableViewCell](https://github.com/agusso/ASOXScrollTableViewCell) - 'Horizontal Scroll Table View Cell' library
@@ -3236,6 +3244,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [trezor/python-mnemonic](https://github.com/trezor/python-mnemonic) - :snake: Mnemonic code for generating deterministic keys, BIP39
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
+- [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
@@ -3243,6 +3252,7 @@
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
