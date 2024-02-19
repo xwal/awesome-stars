@@ -596,7 +596,7 @@
 ## Logos 
 
 - [jjolano/shadow](https://github.com/jjolano/shadow) - A jailbreak detection bypass for modern iOS jailbreaks.
-- [XLsn0w/Cydia](https://github.com/XLsn0w/Cydia) - 🔥🔥🔥微信公众号:Cydiapps🔥🔥🔥            =&gt; Cydia插件 Logos语言 开发Tweak.xm Cydia Substrate 注入dylib iOS逆向工程开发 越狱Jailbreak deb插件 - fishhook / Frida / iOSOpenDev / Cycript / MachOView /  IDA / Hopper Disassembler 
+- [XLsn0w/Cydiapps](https://github.com/XLsn0w/Cydiapps) - 🔥🔥🔥微信公众号:Cydiapps🔥🔥🔥            =&gt; Cydia插件 Logos语言 开发Tweak.xm Cydia Substrate 注入dylib iOS逆向工程开发 越狱Jailbreak deb插件 - fishhook / Frida / iOSOpenDev / Cycript / MachOView /  IDA / Hopper Disassembler 
 - [creantan/LookinLoader](https://github.com/creantan/LookinLoader) - Lookin - iOS UI Debugging Tweak LookinLoader,Compatible with iOS 8~15
 - [NSExceptional/FLEXing](https://github.com/NSExceptional/FLEXing) - A simple tweak to activate a FLEX explorer window
 
@@ -1973,7 +1973,7 @@
 - [newlinedotco/FlappySwift](https://github.com/newlinedotco/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 - [ijoshsmith/swift-ascii-art](https://github.com/ijoshsmith/swift-ascii-art) - Swift program that creates ASCII art from an image
 - [GEOSwift/GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geometry Engine.
-- [relatedcode/ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD for iOS. With more than 5000+ animations. ‼️
+- [relatedcode/ProgressHUD](https://github.com/relatedcode/ProgressHUD) - ProgressHUD is a lightweight and easy-to-use HUD for iOS. Over 5000+ animations. ‼️
 - [phpmaple/Stick-Hero-Swift](https://github.com/phpmaple/Stick-Hero-Swift) - a universal iOS Game using Swift and iOS SpriteKit
 - [lexrus/VPNOn](https://github.com/lexrus/VPNOn) - Turn On your VPN like a hero.
 - [lexrus/LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - [EXPERIMENTAL] Graceful morphing effects for UILabel written in Swift.
@@ -2022,7 +2022,7 @@
 - [eth-infinitism/account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
-- [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol v1 monorepo
+- [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
