@@ -585,6 +585,7 @@
 
 ## Kotlin 
 
+- [ACINQ/secp256k1-kmp](https://github.com/ACINQ/secp256k1-kmp) - Kotlin Multi Platform bindings for Bitcoin secp256k1 library.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -1110,6 +1111,7 @@
 
 ## Others 
 
+- [starknet-io/provisions-data](https://github.com/starknet-io/provisions-data) - Lists of eligible identities for Starknet provisions.
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [apple-oss-distributions/distribution-iOS](https://github.com/apple-oss-distributions/distribution-iOS) - 
@@ -1352,7 +1354,7 @@
 - [burczyk/XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - Swift 4 code snippets for Xcode
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [lucasxlu/LagouJob](https://github.com/lucasxlu/LagouJob) - Job data mining repo for lagou.com
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
@@ -1473,6 +1475,7 @@
 
 ## Shell 
 
+- [longbridgeapp/longbridge-terminal](https://github.com/longbridgeapp/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [NeoTeo/gmp-ios-builder](https://github.com/NeoTeo/gmp-ios-builder) - A bash 4 script to build the Gnu Multi Precision library as a framework for iOS devices (and Simulators).
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -1714,7 +1717,7 @@
 - [swiftsocket/SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - The easy way to use sockets on Apple platforms
 - [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
-- [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
+- [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [hyperoslo/ImagePicker](https://github.com/hyperoslo/ImagePicker) - :camera: Reinventing the way ImagePicker works.
 - [EurekaCommunity/SuggestionRow](https://github.com/EurekaCommunity/SuggestionRow) - Eureka row that displays completion suggestions either below the row in a table view or in the input accessory view above the keyboard.
 - [Yalantis/Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
