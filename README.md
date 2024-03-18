@@ -196,7 +196,7 @@
 - [ftylitak/qzxing](https://github.com/ftylitak/qzxing) - Qt/QML wrapper library for the ZXing library.  1D/2D barcode image processing library
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [oclint/oclint](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [line/stellite](https://github.com/line/stellite) - Stellite project is a client library and server application that offers an easy way to develop, build, and implement client/server running primarily over the QUIC protocol developed by Google as part 
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -260,6 +260,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -330,7 +331,6 @@
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
@@ -363,7 +363,7 @@
 
 ## Haskell 
 
-- [huangz1990/real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
+- [huangzworks/real-world-haskell-cn](https://github.com/huangzworks/real-world-haskell-cn) - 《Real World Haskell》中文翻译项目
 
 ## Java 
 
@@ -410,6 +410,8 @@
 - [gitcoinco/web](https://github.com/gitcoinco/web) - Grow Open Source
 - [appium/appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
+- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
+- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules
 - [MetaMask/test-dapp](https://github.com/MetaMask/test-dapp) - The sample dapp used for e2e testing and metamask-extension QA
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -468,7 +470,7 @@
 - [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode) - Xcode extension to paste JSON as Swift, Objective-C, and more
 - [vishwanatharondekar/gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create a merge request from command line in gitlab
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [zx576/recruitment](https://github.com/zx576/recruitment) - A project crawling online recruitment websites getting offer information
 - [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Beautify your Jenkins with the Material Design theme!
@@ -747,6 +749,7 @@
 - [nicklockwood/AutoCoding](https://github.com/nicklockwood/AutoCoding) - AutoCoding is a category on NSObject that provides automatic support for NSCoding and NSCopying to every object.
 - [Cocoanetics/DTBonjour](https://github.com/Cocoanetics/DTBonjour) - Framework for Communicating over Bonjour+Wifi
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash for iOS was discontinued. Please check out Dash for macOS instead.
+- [RetVal/objc-runtime](https://github.com/RetVal/objc-runtime) - A debuggable objc runtime
 - [alexeyxo/protobuf-objc](https://github.com/alexeyxo/protobuf-objc) - Google Protocol Buffers for Objective-C
 - [tangqiaoboy/xcode_tool](https://github.com/tangqiaoboy/xcode_tool) - The snippet of xcode will be stored in ~/Library/Developer/Xcode/UserData/CodeSnippets/
 - [zekunyan/TTGTagCollectionView](https://github.com/zekunyan/TTGTagCollectionView) - Useful for showing text or custom view tags in a vertical or horizontal scrollable view and support Autolayout at the same time. It is highly customizable that most features of the text tag can be con
@@ -1099,7 +1102,6 @@
 - [opensource-apple/objc4](https://github.com/opensource-apple/objc4) - 
 - [mapbox/XcodeClangFormat](https://github.com/mapbox/XcodeClangFormat) - Format code in Xcode 8+ with clang-format
 - [TextureGroup/Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
-- [RetVal/objc-runtime](https://github.com/RetVal/objc-runtime) - A debuggable objc runtime
 - [objcio/issue-21-OpenCV-FaceRec](https://github.com/objcio/issue-21-OpenCV-FaceRec) - A small project demonstrating how OpenCV can be used on iOS to perform face recognition
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
 - [facebookarchive/FBAllocationTracker](https://github.com/facebookarchive/FBAllocationTracker) - iOS library that helps tracking all allocated Objective-C objects
@@ -2047,7 +2049,6 @@
 - [tkey/tkey](https://github.com/tkey/tkey) - Whitelabel, design and own the full UI/UX with Self-host Web3Auth (tKey). All of the power of threshold key management at your fingertips
 - [RabbyHub/Rabby](https://github.com/RabbyHub/Rabby) - The game-changing wallet for Ethereum and all EVM chains
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
-- [rainbow-me/rainbow](https://github.com/rainbow-me/rainbow) - 🌈‒ the Ethereum wallet that lives in your pocket
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
