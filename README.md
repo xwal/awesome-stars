@@ -83,7 +83,7 @@
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11 devices, on iOS 15.0 and higher.
+- [palera1n/palera1n](https://github.com/palera1n/palera1n) - Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.
 - [OneKeyHQ/firmware](https://github.com/OneKeyHQ/firmware) - 
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -359,7 +359,7 @@
 
 ## Handlebars 
 
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [0xx0-ai/beat-ai](https://github.com/0xx0-ai/beat-ai) - &lt;&lt;Beat AI&gt;&gt; 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -402,7 +402,6 @@
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop) - Remix IDE desktop
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [lxdao-official/gclx-contracts](https://github.com/lxdao-official/gclx-contracts) - 国产良心合约代码
@@ -531,7 +530,6 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [erming/shout](https://github.com/erming/shout) - Deprecated. See fork @ https://github.com/thelounge
 - [lurongkai/anti-baidu](https://github.com/lurongkai/anti-baidu) - anti baidu script
-- [NSNotFound/blog.swift](https://github.com/NSNotFound/blog.swift) - [WIP] A tiny server-side Swift blog app.
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
@@ -727,7 +725,7 @@
 - [peaktangf/RecognizeCard](https://github.com/peaktangf/RecognizeCard) - 我是一个能识别中国二代身份证的Demo
 - [southpeak/Minya](https://github.com/southpeak/Minya) - A simple basic hierarchy for iOS development with Objective-C. It is based on MVCS and KVO.
 - [xhzengAIB/MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) - An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting featu
-- [lzwjava/LZAlbum](https://github.com/lzwjava/LZAlbum) - 基于 LeanCloud 的朋友圈，优雅地使用 LeanCloud
+- [lzwjava/LZAlbum](https://github.com/lzwjava/LZAlbum) - Moments based on LeanCloud, use LeanCloud elegantly
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [liuslevis/GYBootingProtection](https://github.com/liuslevis/GYBootingProtection) - A tool for detecting and repairting continuous launch crash of iOS App
 - [steipete/Aspects](https://github.com/steipete/Aspects) - Delightful, simple library for aspect oriented programming in Objective-C and Swift.
@@ -1128,8 +1126,8 @@
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
-- [rustlang-cn/rust-weekly](https://github.com/rustlang-cn/rust-weekly) - Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [rustcn-org/rust-weekly](https://github.com/rustcn-org/rust-weekly) - Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [SwiftOldDriver/Salon](https://github.com/SwiftOldDriver/Salon) - 
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
@@ -1504,7 +1502,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [v5tech/notes](https://github.com/v5tech/notes) - notes
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Smarty 
 
@@ -1527,6 +1525,7 @@
 - [web3nomad/hippyghosts-contracts](https://github.com/web3nomad/hippyghosts-contracts) - 
 - [Base-Labs/contracts](https://github.com/Base-Labs/contracts) - Base Labs contracts repository
 - [Anish-Agnihotri/flashside](https://github.com/Anish-Agnihotri/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [CodeforDAO/contracts](https://github.com/CodeforDAO/contracts) - Solidity smart contracts of CodeforDAO
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - A Prettier plugin for automatically formatting your Solidity code.
@@ -1820,7 +1819,6 @@
 - [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [jessesquires/JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - [Deprecated] A lightweight Swift WebKit view controller for iOS
 - [objcio/functional-swift](https://github.com/objcio/functional-swift) - Issue repository for the Functional Swift book
-- [wireapp/wire-ios_legacy](https://github.com/wireapp/wire-ios_legacy) - 📱 Wire for iOS (iPhone and iPad)
 - [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
 - [MHaroonBaig/MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  :octocat:   :satellite:
 - [TBXark/TKRadarChart](https://github.com/TBXark/TKRadarChart) - A customizable radar chart  in Swift
