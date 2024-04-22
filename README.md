@@ -34,6 +34,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
+- [Meson](#meson)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -294,6 +295,7 @@
 
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [bnb-chain/tss-lib](https://github.com/bnb-chain/tss-lib) - Threshold Signature Scheme, for ECDSA and EDDSA
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
@@ -614,7 +616,6 @@
 ## Makefile 
 
 - [tyrchen/unchained](https://github.com/tyrchen/unchained) - My personal study of blockchain related technology.
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [phodal/developer](https://github.com/phodal/developer) - developer roadmap. use growth https://github.com/phodal/growth replace this
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
@@ -631,6 +632,10 @@
 ## Mercury 
 
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Nunjucks 
 
@@ -1127,7 +1132,6 @@
 - [scaffold-eth/scaffold-eth-challenges](https://github.com/scaffold-eth/scaffold-eth-challenges) - Scaffold-Eth 🏗 Challenges repository
 - [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
 - [rustcn-org/rust-weekly](https://github.com/rustcn-org/rust-weekly) - Rust语言周刊，每周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [SwiftOldDriver/Salon](https://github.com/SwiftOldDriver/Salon) - 
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
