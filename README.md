@@ -150,7 +150,7 @@
 
 ## C# # 
 
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 
@@ -314,7 +314,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
+- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 - [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -331,7 +331,7 @@
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [code-423n4/2022-09-artgobblers](https://github.com/code-423n4/2022-09-artgobblers) - 
 - [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
-- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
+- [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) - A community-driven weekly newsletter about Swift.org
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -361,7 +361,7 @@
 
 ## Handlebars 
 
-- [0x-ai/beat-ai](https://github.com/0x-ai/beat-ai) - 《Beat AI》又名《零生万物》 ，是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [luoyeETH/MyWalletScan](https://github.com/luoyeETH/MyWalletScan) - 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1020,7 +1021,7 @@
 - [TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
 - [jverkoey/nimbus](https://github.com/jverkoey/nimbus) - The iOS framework that grows only as fast as its documentation
 - [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
-- [kirualex/KASlideShow](https://github.com/kirualex/KASlideShow) - Ultra-basic slideshow for iOS (ARC only).
+- [alexiscreuzot/KASlideShow](https://github.com/alexiscreuzot/KASlideShow) - Ultra-basic slideshow for iOS (ARC only).
 - [dropbox/XCoverage](https://github.com/dropbox/XCoverage) - Xcode Plugin that displays coverage data in the text editor
 - [Cocoanetics/DTRichTextEditor](https://github.com/Cocoanetics/DTRichTextEditor) - A rich-text editor for iOS
 - [ealeksandrov/EAIntroView](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
@@ -1635,7 +1636,7 @@
 - [Awalz/SwiftyCam](https://github.com/Awalz/SwiftyCam) - A Snapchat Inspired iOS Camera Framework written in Swift
 - [zqqf16/SYM](https://github.com/zqqf16/SYM) - A crash log symbolicating Mac app | 一个图形化的崩溃日志符号化工具
 - [tensorflow/swift-apis](https://github.com/tensorflow/swift-apis) - Swift for TensorFlow Deep Learning Library
-- [Khan/SwiftTweaks](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling!
+- [bryanjclark/SwiftTweaks](https://github.com/bryanjclark/SwiftTweaks) - Tweak your iOS app without recompiling!
 - [yenom/BitcoinKit](https://github.com/yenom/BitcoinKit) - Bitcoin protocol toolkit for Swift
 - [coderZsq/coderZsq.practice.native](https://github.com/coderZsq/coderZsq.practice.native) - For advanced moblie-end development technique pre-research & ideas & practice. ( Focus areas: Native )
 - [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
@@ -1820,7 +1821,7 @@
 - [Nicejinux/NXDrawKit](https://github.com/Nicejinux/NXDrawKit) - NXDrawKit is a simple and easy but useful drawing kit for iPhone
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
 - [ScottLogic/iOS10-day-by-day](https://github.com/ScottLogic/iOS10-day-by-day) - Projects to accompany the iOS 10 Day by Day blog series
-- [owlmafia/SwiftCharts](https://github.com/owlmafia/SwiftCharts) - Easy to use and highly customizable charts library for iOS
+- [ivnsch/SwiftCharts](https://github.com/ivnsch/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [jessesquires/JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - [Deprecated] A lightweight Swift WebKit view controller for iOS
 - [objcio/functional-swift](https://github.com/objcio/functional-swift) - Issue repository for the Functional Swift book
 - [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
@@ -2014,6 +2015,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode) - Excalidraw for Visual Studio Code
 - [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
