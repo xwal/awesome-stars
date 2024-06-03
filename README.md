@@ -398,7 +398,7 @@
 - [DefiLlama/chainlist](https://github.com/DefiLlama/chainlist) - 
 - [WalletConnect/create-eth-app](https://github.com/WalletConnect/create-eth-app) - Create Ethereum-powered apps with one command
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
-- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop) - Remix IDE desktop
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -563,6 +563,7 @@
 
 ## Jupyter Notebook 
 
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader) - 
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
@@ -1548,6 +1549,7 @@
 
 ## Swift 
 
+- [inket/MacSymbolicator](https://github.com/inket/MacSymbolicator) - Symbolicating macOS/iOS crash reports, easily.
 - [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks
 - [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
