@@ -2232,6 +2232,7 @@
 
 ## others 
 
+- [finestructure/Arena](https://github.com/finestructure/Arena) - A command line tool to create Swift Playground projects with SPM package dependencies
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) - R Package for 2D and 3D mapping and data visualization
 - [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks
@@ -2650,7 +2651,7 @@
 - [music4kid/FastStub-Xcode](https://github.com/music4kid/FastStub-Xcode) - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
 - [peaktangf/RecognizeCard](https://github.com/peaktangf/RecognizeCard) - 我是一个能识别中国二代身份证的Demo
 - [gali8/Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.
-- [vczero/toilet](https://github.com/vczero/toilet) - 一款快速帮你找到附近卫生间的神奇App
+- [vczero/toilet](https://github.com/vczero/toilet) - Urban governance - Where is the restroom?
 - [mattconnolly/ZipArchive](https://github.com/mattconnolly/ZipArchive) - zip archive processing for Cocoa - iPhone and OS X
 - [southpeak/Minya](https://github.com/southpeak/Minya) - A simple basic hierarchy for iOS development with Objective-C. It is based on MVCS and KVO.
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -2866,7 +2867,7 @@
 - [vczero/React-Dou](https://github.com/vczero/React-Dou) - 豆瓣搜索App
 - [vczero/React-Native-Code](https://github.com/vczero/React-Native-Code) - 《React Native入门与实战》实例源码
 - [vczero/React-Native-App](https://github.com/vczero/React-Native-App) - RN 开源之初，写几个小 App 玩玩
-- [vczero/react-native-lesson](https://github.com/vczero/react-native-lesson) - React-Native入门指南
+- [vczero/react-native-lesson](https://github.com/vczero/react-native-lesson) - React Native入门指南
 - [microbuilder/IntroToBLE](https://github.com/microbuilder/IntroToBLE) - Code samples for Getting Started with Bluetooth Low Energy (O'Reilly Media)
 - [facebook/chisel](https://github.com/facebook/chisel) - Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [limboy/iOS-Developer-Interview-Questions](https://github.com/limboy/iOS-Developer-Interview-Questions) - 面试 iOS 开发时可以问的一些问题
