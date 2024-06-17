@@ -40,6 +40,7 @@
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -641,6 +642,20 @@
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [XDagger/xdag](https://github.com/XDagger/xdag) - XDAG (Dagger Coin) Official Main Repository.  XDAG is a novel DAG based cryptocurrency.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## cryptography 
+
+- [bnb-chain/tss-lib](https://github.com/bnb-chain/tss-lib) - Threshold Signature Scheme, for ECDSA and EDDSA
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
+- [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
+- [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
+- [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
+- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
 
 ## csharp 
 
@@ -2360,7 +2375,7 @@
 - [x-orpheus/blog](https://github.com/x-orpheus/blog) - 云音乐大前端技术专栏
 - [leavez/cocoapods-binary](https://github.com/leavez/cocoapods-binary) - integrate pods in form of prebuilt frameworks conveniently, reducing compile time
 - [grab/cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache) - 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [hermeznetwork/circuits](https://github.com/hermeznetwork/circuits) - Implements hermez network zk-Snarks circuits
@@ -2611,7 +2626,6 @@
 - [Shmoopi/iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services) - iOS System Services is a class to gather all available information about a device.
 - [objcio/issue-13-viper](https://github.com/objcio/issue-13-viper) - 
 - [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
 - [likedan/Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) - A Car Recognition Framework for CoreML
 - [google-ar/WebARonARKit](https://github.com/google-ar/WebARonARKit) - An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.
 - [strongself/The-Book-of-VIPER](https://github.com/strongself/The-Book-of-VIPER) - the one and the only
@@ -2742,7 +2756,7 @@
 - [objcio/functional-swift](https://github.com/objcio/functional-swift) - Issue repository for the Functional Swift book
 - [Jawbone/JBChartView](https://github.com/Jawbone/JBChartView) - iOS-based charting library for both line and bar graphs.
 - [ProducterTips/producter-book-examples](https://github.com/ProducterTips/producter-book-examples) - All examples in Book Producter http://producter.io
-- [SketchK/FOUR](https://github.com/SketchK/FOUR) - FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal.
+- [SwiftSIQI/FOUR](https://github.com/SwiftSIQI/FOUR) - FOUR is a beautiful and lightweight task-recorder app, revolving around the theme of "10000 Hour Rule", encourage user to achieve their goal.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [ole/Animated-Paths](https://github.com/ole/Animated-Paths) - Demo project: Animating the drawing of a CGPath with CAShapeLayer.strokeEnd
 - [ra1028/RACollectionViewReorderableTripletLayout](https://github.com/ra1028/RACollectionViewReorderableTripletLayout) - The custom collectionView layout that can perform reordering of cells by dragging it.
@@ -3274,6 +3288,7 @@
 
 ## privacy 
 
+- [duckduckgo/iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 
 ## programming 
@@ -3617,6 +3632,7 @@
 
 ## swift 
 
+- [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
 - [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
