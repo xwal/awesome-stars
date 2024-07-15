@@ -309,7 +309,7 @@
 - [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [EasyDarwin/EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) - open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si
@@ -545,6 +545,7 @@
 - [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide) - 💰 Awesome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -1485,6 +1486,7 @@
 
 ## Shell 
 
+- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 - [longbridgeapp/longbridge-terminal](https://github.com/longbridgeapp/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [NeoTeo/gmp-ios-builder](https://github.com/NeoTeo/gmp-ios-builder) - A bash 4 script to build the Gnu Multi Precision library as a framework for iOS devices (and Simulators).
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
@@ -1534,7 +1536,7 @@
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [artgobblers/art-gobblers](https://github.com/artgobblers/art-gobblers) - An experimental decentralized art factory by Justin Roiland and Paradigm.
 - [LayerZero-Labs/LayerZero](https://github.com/LayerZero-Labs/LayerZero) - An Omnichain Interoperability Protocol
-- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 - [argentlabs/argent-contracts](https://github.com/argentlabs/argent-contracts) - Smart Contracts for Argent Wallet
 - [consenlabs/tokenlon-contracts](https://github.com/consenlabs/tokenlon-contracts) - Tokenlon is a decentralized exchange and payment settlement protocol based on blockchain technology. Visit https://tokenlon.im/
 - [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) - Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.
@@ -1591,7 +1593,7 @@
 - [ReactKit/SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
 - [raspu/Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
 - [WalletConnect/WalletConnectSwift](https://github.com/WalletConnect/WalletConnectSwift) - WalletConnect Swift SDK
-- [apple/swift-docc](https://github.com/apple/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
+- [swiftlang/swift-docc](https://github.com/swiftlang/swift-docc) - Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [AvdLee/appstoreconnect-swift-sdk](https://github.com/AvdLee/appstoreconnect-swift-sdk) - The Swift SDK to work with the App Store Connect API from Apple.
@@ -1611,7 +1613,6 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) - A service discovery API for Swift.
-- [trustwallet/trust-web3-provider](https://github.com/trustwallet/trust-web3-provider) - Web3 javascript wrapper provider for iOS and Android platforms.
 - [apple/swift-system](https://github.com/apple/swift-system) - Low-level system calls and types for Swift
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -2026,7 +2027,7 @@
 
 - [bamos/cv](https://github.com/bamos/cv) - 
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
 
 ## TypeScript 
@@ -2075,6 +2076,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+- [trustwallet/trust-web3-provider](https://github.com/trustwallet/trust-web3-provider) - Web3 javascript wrapper provider for iOS and Android platforms.
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [Uniswap/v2-core](https://github.com/Uniswap/v2-core) - 🦄 🦄  Core smart contracts of Uniswap V2
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
@@ -2100,7 +2102,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
