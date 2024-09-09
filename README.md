@@ -72,7 +72,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -401,6 +401,7 @@
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [ethereum/remix-desktop](https://github.com/ethereum/remix-desktop) - Remix IDE desktop
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [lxdao-official/gclx-contracts](https://github.com/lxdao-official/gclx-contracts) - 国产良心合约代码
@@ -1310,7 +1311,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [nicoboss/nsz](https://github.com/nicoboss/nsz) - NSZ - Homebrew compatible NSP/XCI compressor/decompressor
 - [julesontheroad/NSC_BUILDER](https://github.com/julesontheroad/NSC_BUILDER) - Nintendo Switch Cleaner and Builder. A batchfile, python and html script based in hacbuild and Nut's python libraries. Designed initially to erase titlerights encryption from nsp files and make multic
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [OpenRarity/open-rarity](https://github.com/OpenRarity/open-rarity) - Reference implementation of the OpenRarity protocol with Python.
@@ -1451,7 +1452,7 @@
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [consenlabs/token-core](https://github.com/consenlabs/token-core) - Next generation core inside imToken Wallet.
 - [zhangzhilinx/qsv2flv](https://github.com/zhangzhilinx/qsv2flv) - A tool developed in Rust to convert QSV to FLV（一个爱奇艺qsv转flv工具，不会生成多余的临时文件，使用Rust开发）
@@ -1540,7 +1541,6 @@
 - [web3nomad/hippyghosts-contracts](https://github.com/web3nomad/hippyghosts-contracts) - 
 - [Base-Labs/contracts](https://github.com/Base-Labs/contracts) - Base Labs contracts repository
 - [Anish-Agnihotri/flashside](https://github.com/Anish-Agnihotri/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [zeriontech/defi-sdk](https://github.com/zeriontech/defi-sdk) - DeFi SDK Makes Money Lego Work
 - [CodeforDAO/contracts](https://github.com/CodeforDAO/contracts) - Solidity smart contracts of CodeforDAO
 - [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - A Prettier plugin for automatically formatting your Solidity code.
@@ -1966,7 +1966,7 @@
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [andreamazz/AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 - [yankodimitrov/SwiftPasscodeLock](https://github.com/yankodimitrov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift.
-- [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21
+- [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS interview questions;iOS面试题集锦（附答案）
 - [CharlinFeng/CFCityPickerVC](https://github.com/CharlinFeng/CFCityPickerVC) - 城市选取控制器
 - [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 - [tispr/tispr-card-stack](https://github.com/tispr/tispr-card-stack) - Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI
@@ -2031,7 +2031,7 @@
 ## TypeScript 
 
 - [excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode) - Excalidraw for Visual Studio Code
-- [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.
+- [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
@@ -2077,7 +2077,7 @@
 - [Uniswap/interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 - [Uniswap/v2-core](https://github.com/Uniswap/v2-core) - 🦄 🦄  Core smart contracts of Uniswap V2
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
