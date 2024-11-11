@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ApacheConf](#apacheconf)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -60,10 +59,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Wikitext](#wikitext)
-
-## ApacheConf 
-
-- [PinkyJie/resume](https://github.com/PinkyJie/resume) - My Resume
 
 ## Astro 
 
@@ -133,6 +128,7 @@
 - [pili-engineering/PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) - PLCameraStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，是带有采集模块老版本 SDK。如果是新用户接入，建议使用 PLMediaStreamingKit。该版本支持 RTMP 推流，h.264 和 AAC 编码，硬编软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
 - [sqlcipher/sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [webmproject/libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests. See https://chromium.googlesource.com/webm/libwebp/+/HEAD/CONTRIBUTING.md.
 - [cloudwu/mptun](https://github.com/cloudwu/mptun) - Multi-path Tunnel
@@ -148,6 +144,7 @@
 
 ## C# # 
 
+- [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) - Hard-fork of the Ryujinx project
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 
 ## C++ 
@@ -213,7 +210,6 @@
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [google/glog](https://github.com/google/glog) - C++ implementation of the Google logging module
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
@@ -381,7 +377,6 @@
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
@@ -585,7 +580,7 @@
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework - Android Repository
 
 ## LLVM 
 
@@ -665,7 +660,7 @@
 - [lefex/iWeChat](https://github.com/lefex/iWeChat) - 从 0 开始解刨一个 App，以微信为例
 - [coderZsq/coderZsq.project.ios](https://github.com/coderZsq/coderZsq.project.ios) - A lightweight and efficient application development tool set for iOS, and accelerating the developing speed.
 - [gnustep/libs-base](https://github.com/gnustep/libs-base) - The GNUstep Base Library is a library of general-purpose, non-graphical Objective C objects.
-- [ming1016/GCDFetchFeed](https://github.com/ming1016/GCDFetchFeed) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
+- [ming1016/RSSReader](https://github.com/ming1016/RSSReader) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
 - [dothanthitiendiettiende/pastekb-ios](https://github.com/dothanthitiendiettiende/pastekb-ios) - Paste Keyboard for iOS
 - [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) - A WebDriver server for iOS and tvOS
@@ -1555,6 +1550,7 @@
 
 ## Swift 
 
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [reown-com/reown-swift](https://github.com/reown-com/reown-swift) - 
 - [kodecocodes/video-cgcdo-materials](https://github.com/kodecocodes/video-cgcdo-materials) - The projects and the materials that accompany the iOS Concurrency with GCD and Operations video course
@@ -1568,7 +1564,7 @@
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 - [attaswift/BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift
 - [swiftlang/swift-format](https://github.com/swiftlang/swift-format) - Formatting technology for Swift source code
