@@ -288,7 +288,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework - Android Repository
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
@@ -566,7 +566,7 @@
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
@@ -1220,7 +1220,6 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [RxSwiftCommunity/Action](https://github.com/RxSwiftCommunity/Action) - Abstracts actions to be performed in RxSwift.
@@ -1229,7 +1228,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
@@ -1256,7 +1254,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -1460,7 +1457,6 @@
 - [xmartlabs/Bender](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.
 - [SwipeCellKit/SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.
 - [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [hyperoslo/Whisper](https://github.com/hyperoslo/Whisper) - :mega: Whisper is a component that will make the task of display messages and in-app notifications simple. It has three different views inside
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [wxxsw/SwiftTheme](https://github.com/wxxsw/SwiftTheme) - 🎨 Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式
@@ -1633,7 +1629,6 @@
 
 ## ipfs 
 
-- [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 
@@ -1648,7 +1643,6 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
@@ -1923,7 +1917,7 @@
 - [datatheorem/TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
@@ -2068,7 +2062,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework - Android Repository
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -2307,7 +2301,7 @@
 ## openai 
 
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2329,6 +2323,8 @@
 
 ## others 
 
+- [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) - Hard-fork of the Ryujinx project
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [OneKeyHQ/hardware-js-sdk](https://github.com/OneKeyHQ/hardware-js-sdk) - Javascript SDK for easily connect OneKey hardware device.
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
@@ -2539,7 +2535,7 @@
 - [opensource-apple/dyld](https://github.com/opensource-apple/dyld) - 
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-- [ming1016/GCDFetchFeed](https://github.com/ming1016/GCDFetchFeed) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
+- [ming1016/RSSReader](https://github.com/ming1016/RSSReader) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
 - [rollin0-0/DiffHelper](https://github.com/rollin0-0/DiffHelper) - iOS混淆、iOS代码混淆工具、iOS马甲包、iOS马甲工具、iOS上架、iOS过审工具、iOS翻新工具、iOS重命名、iOS差异化工具,过4.3,避免2.3.1,混淆结果接近手工翻新,支持OC所有语法的差异化,支持文件名、类、分类、方法、属性、Protocol、宏、Block、静态变量、枚举等符号的差异化,支持png、jpg、plist、bundle、xib、storyborad等资源关联代码、
 - [QMUI/LookinServer](https://github.com/QMUI/LookinServer) - Free macOS app for iOS view debugging.
 - [awesome-tips/awesome-tips.github.io](https://github.com/awesome-tips/awesome-tips.github.io) - 知识小集官网 https://awesome-tips.github.io/
@@ -2554,6 +2550,7 @@
 - [dothanthitiendiettiende/pastekb-ios](https://github.com/dothanthitiendiettiende/pastekb-ios) - Paste Keyboard for iOS
 - [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
+- [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) - A WebDriver server for iOS and tvOS
 - [shu223/DepthBook](https://github.com/shu223/DepthBook) - iOSのデプス（深度）の解説書「Depth in Depth」のサンプルコードです。
 - [mzeeshanid/MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.
@@ -2888,7 +2885,6 @@
 - [BaiduHiDeviOS/iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly) - 百度Hi团队 iOS 技术周报
 - [little2s/NoChat](https://github.com/little2s/NoChat) - A lightweight chat UI framework for iOS.
 - [Boris-Em/BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) - Elegant Line Graphs for iOS. (Charting library)
-- [PinkyJie/resume](https://github.com/PinkyJie/resume) - My Resume
 - [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 - [ColinEberhardt/VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) - A collection of iOS7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
 - [RxSwiftCommunity/RxVisualDebugger](https://github.com/RxSwiftCommunity/RxVisualDebugger) - WIP! Very quick and very dirty test for a visual Rx debugger
@@ -4213,7 +4209,7 @@
 
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [chenhuimao/HMLLDB](https://github.com/chenhuimao/HMLLDB) - HMLLDB is a collection of LLDB commands to assist in the debugging of iOS apps.
