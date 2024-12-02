@@ -599,6 +599,7 @@
 
 ## cli 
 
+- [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1665,7 +1666,6 @@
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [Lision/WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
@@ -1909,6 +1909,7 @@
 
 ## macos 
 
+- [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [inket/MacSymbolicator](https://github.com/inket/MacSymbolicator) - Symbolicating macOS/iOS crash reports, easily.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1951,7 +1952,7 @@
 - [saoudrizwan/DynamicJSON](https://github.com/saoudrizwan/DynamicJSON) - Access JSON properties dynamically like JavaScript using Swift 4.2's new @dynamicMemberLookup feature
 - [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, su
 - [eddiekaiger/SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - A Swifty API for attributed strings
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [NSHipster/nshipster.com](https://github.com/NSHipster/nshipster.com) - A journal of the overlooked bits in Objective-C, Swift, and Cocoa.
@@ -2323,6 +2324,7 @@
 
 ## others 
 
+- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) - Hard-fork of the Ryujinx project
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
@@ -2340,7 +2342,7 @@
 - [luoyeETH/MyWalletScan](https://github.com/luoyeETH/MyWalletScan) - 
 - [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc.
 - [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
-- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
@@ -2580,7 +2582,7 @@
 - [coderZsq/coderZsq.practice.native](https://github.com/coderZsq/coderZsq.practice.native) - For advanced moblie-end development technique pre-research & ideas & practice. ( Focus areas: Native )
 - [skylar2k/SXOS-CheatDB](https://github.com/skylar2k/SXOS-CheatDB) - This is a collection of cheat codes for use with Team Xecuter's SXOS CFW on Nintendo Switch
 - [indulgeIn/YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler) - iOS 任务调度器，为 CPU 和内存减负（用于性能优化）
-- [ruslanskorb/RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.
+- [ruslanskorb/RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper) - An image / photo crop view controller for iOS like in the Contacts app with support for landscape orientation.
 - [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) - Flutter Launch Timeline Demo
 - [airbnb/MagazineLayout](https://github.com/airbnb/MagazineLayout) - A collection view layout capable of laying out views in vertically scrolling grids and lists.
 - [objcio/app-architecture](https://github.com/objcio/app-architecture) - Sample Code of the App Architecture Book
@@ -2981,7 +2983,7 @@
 - [DianQK/TransitionTreasury](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController.
 - [AfryMask/AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) - 毛笔画板
 - [sauliusgrigaitis/Swifton](https://github.com/sauliusgrigaitis/Swifton) - A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X
-- [lingoer/SwiftyCharms](https://github.com/lingoer/SwiftyCharms) - Some rune word for sorcerers playing dark magic
+- [aemaeth-me/SwiftyCharms](https://github.com/aemaeth-me/SwiftyCharms) - Some rune word for sorcerers playing dark magic
 - [MattCBowman/ReactiveCoreBluetooth](https://github.com/MattCBowman/ReactiveCoreBluetooth) - Reactive Extensions for CoreBluetooth.
 - [doushiDev/ds_ios](https://github.com/doushiDev/ds_ios) - 逗视iOS客户端
 - [callmewhy/Swift90Days](https://github.com/callmewhy/Swift90Days) - 90 articles about Swift in 90 days
@@ -3314,7 +3316,7 @@
 - [liaojinxing/V2EXClient](https://github.com/liaojinxing/V2EXClient) - V2EX iOS client using Swift
 - [RestKit/RestKit](https://github.com/RestKit/RestKit) - RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
-- [MugunthKumar/MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit) - Modern NSURLSession based Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 8+ devices
+- [MKSG-MugunthKumar/MKNetworkKit](https://github.com/MKSG-MugunthKumar/MKNetworkKit) - Modern NSURLSession based Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 8+ devices
 - [austinzheng/swift-2048](https://github.com/austinzheng/swift-2048) - 2048 for Swift
 - [objccn/articles](https://github.com/objccn/articles) - Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本
 - [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
@@ -3404,6 +3406,7 @@
 
 ## python 
 
+- [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
