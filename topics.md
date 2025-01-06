@@ -33,6 +33,7 @@
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [clash](#clash)
 - [cli](#cli)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -206,6 +207,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -225,7 +227,7 @@
 
 ## ai 
 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
@@ -390,7 +392,7 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) - OSX and iOS related security tools
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
@@ -559,16 +561,16 @@
 
 ## chatbot 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## chatgpt 
 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -579,7 +581,7 @@
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
 
 ## chrome 
@@ -597,9 +599,14 @@
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
+## clash 
+
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+
 ## cli 
 
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -719,7 +726,7 @@
 - [pointfreeco/swift-web](https://github.com/pointfreeco/swift-web) - 🕸 A collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -858,7 +865,7 @@
 
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -947,7 +954,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [argentlabs/web3.swift](https://github.com/argentlabs/web3.swift) - Ethereum Swift API with support for smart contracts, ENS & ERC20
-- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
+- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.
 - [tyrchen/unchained](https://github.com/tyrchen/unchained) - My personal study of blockchain related technology.
 - [sigp/lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
@@ -1090,7 +1097,7 @@
 - [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [vishwanatharondekar/gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create a merge request from command line in gitlab
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -1137,6 +1144,7 @@
 
 ## go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -1211,13 +1219,12 @@
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Elegant Web3js functionality in Swift. Native ABI parsing and smart contract interactions.
+- [web3swift-team/web3swift](https://github.com/web3swift-team/web3swift) - Full featured library for Ethereum interaction with the JSON RPC API in swift. Native ABI parsing and smart contract interactions.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) - 🍂 Multipurpose homebrew tool for Nintendo Switch
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [tuist/tuist](https://github.com/tuist/tuist) - Tuist's CLI
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
-- [jwt/ruby-jwt](https://github.com/jwt/ruby-jwt) - A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -1292,7 +1299,7 @@
 - [tophat/RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links
 - [pointfreeco/swift-web](https://github.com/pointfreeco/swift-web) - 🕸 A collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1472,7 +1479,7 @@
 - [Yalantis/Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 - [TKkk-iOSer/WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS) - 
 - [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
-- [alexisakers/BulletinBoard](https://github.com/alexisakers/BulletinBoard) - General-purpose contextual cards for iOS
+- [alexaubry/BulletinBoard](https://github.com/alexaubry/BulletinBoard) - General-purpose contextual cards for iOS
 - [shu223/ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - Code examples for ARKit.
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [HarshilShah/NotchKit](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X
@@ -1644,6 +1651,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [dianping/cat](https://github.com/dianping/cat) - CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [igniterealtime/Openfire](https://github.com/igniterealtime/Openfire) - An XMPP server licensed under the Open Source Apache License.
@@ -1680,7 +1688,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [alexeyten/qr-image](https://github.com/alexeyten/qr-image) - Yet another QR code generator
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
@@ -1777,7 +1785,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -1812,6 +1820,7 @@
 
 ## linux 
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [arthenica/ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
@@ -1869,6 +1878,7 @@
 
 ## mac 
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [chenjie1219/IPADownload](https://github.com/chenjie1219/IPADownload) - Search and download decrypted IPA file from 3rd-party App Store.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2122,7 +2132,7 @@
 
 ## nextjs 
 
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
@@ -2153,7 +2163,7 @@
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [vishwanatharondekar/gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create a merge request from command line in gitlab
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [liumingmusic/react-native-full-example](https://github.com/liumingmusic/react-native-full-example) - 第一个完整的react-native项目。包括服务端和移动端两部分。服务端使用express+bootstrap进行搭建，主要功能有登录、退出、模块选择、查看、修改、删除、分页等后台管理的基本功能；移动端主要用到组件View、Text、Image、ScrollView、ListView等常用的组件，也使用了第三方的地图服务(高德地图)，作为初学者。是一个很好的学习案例。
@@ -2301,7 +2311,7 @@
 
 ## openai 
 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -2324,6 +2334,8 @@
 
 ## others 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) - Hard-fork of the Ryujinx project
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
@@ -2416,7 +2428,7 @@
 - [renebigot/XlsxReaderWriter](https://github.com/renebigot/XlsxReaderWriter) - XlsxReaderWriter is an Objective-C library for iPhone / iPad and Mac. It parses and writes MS Excel XLSX files.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [brave/brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues
-- [snapshot-labs/snapshot](https://github.com/snapshot-labs/snapshot) - V1 interface for Snapshot. Join us on Discord http://discord.snapshot.org
+- [snapshot-labs/snapshot-v1](https://github.com/snapshot-labs/snapshot-v1) - V1 interface for Snapshot. Join us on Discord http://discord.snapshot.org
 - [Azure-Samples/blockchain](https://github.com/Azure-Samples/blockchain) - Azure Blockchain Content and Samples
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [tkey/tkey](https://github.com/tkey/tkey) - Whitelabel, design and own the full UI/UX with Self-host Web3Auth (tKey). All of the power of threshold key management at your fingertips
@@ -2426,7 +2438,6 @@
 - [appium/appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
 - [flashbots/pm](https://github.com/flashbots/pm) - Everything there is to know about Flashbots
 - [Lakr233/Iridium](https://github.com/Lakr233/Iridium) - An iOS app decrypter, full static using fouldecrypt.
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 - [ReactKit/SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
@@ -2630,7 +2641,7 @@
 - [google/google-authenticator](https://github.com/google/google-authenticator) - Open source version of Google Authenticator (except the Android app)
 - [ReactKit/ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
-- [wg689/Solve-App-Store-Review-Problem](https://github.com/wg689/Solve-App-Store-Review-Problem) - a collection   to solve app store review problem (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)
+- [zhichengfalv/Solve-App-Store-Review-Problem](https://github.com/zhichengfalv/Solve-App-Store-Review-Problem) - a collection   to solve app store review problem (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总)
 - [weng1250/WZLBadge](https://github.com/weng1250/WZLBadge) - //An one-line tool to show  styles of badge for UIView
 - [leo9960/wechat-app-unpack](https://github.com/leo9960/wechat-app-unpack) - 微信小程序(.wxapkg)解包心得以及未开放API猜测
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
@@ -2859,7 +2870,7 @@
 - [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display
 - [recruit-mtl/MTLLinkLabel](https://github.com/recruit-mtl/MTLLinkLabel) - 
 - [mortenjust/droptogif](https://github.com/mortenjust/droptogif) - Zero-click animated Gifs
-- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac
+- [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 - [Fnoz/FNMatchPull](https://github.com/Fnoz/FNMatchPull) - Swift实现的火柴图案&火柴文字下拉刷新动效（超炫酷下拉刷新），Swift&加强版本CBStoreHouseRefreshControl.
 - [coolbeet/CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
 - [kahopoon/Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - play pokemon go safely or at unavailable area
@@ -3032,7 +3043,6 @@
 - [tbrannam/Jason](https://github.com/tbrannam/Jason) - JSON viewer/editor for Mac OS X
 - [request/request](https://github.com/request/request) - 🏊🏾 Simplified HTTP request client.
 - [KevinHM/ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version) - iOS 开发最佳实践：OC 与 Swift 最佳实践
-- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [PunchThrough/Bean-iOS-OSX-SDK](https://github.com/PunchThrough/Bean-iOS-OSX-SDK) - Punch Through's SDK for speeding up development with the LightBlue Bean development platform
 - [Aufree/ESTCollectionViewDropDownList](https://github.com/Aufree/ESTCollectionViewDropDownList) - A demo implementation of a drop down tag list view for iOS.
 - [nicklockwood/iVersion](https://github.com/nicklockwood/iVersion) - [DEPRECATED]
@@ -3383,7 +3393,7 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -3410,7 +3420,7 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -3477,7 +3487,7 @@
 ## react 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
 - [heyxyz/hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -3585,7 +3595,7 @@
 ## rust 
 
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [longbridgeapp/longbridge-terminal](https://github.com/longbridgeapp/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [hardhackerlabs/themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All 🌈
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -3605,6 +3615,7 @@
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
@@ -3852,7 +3863,7 @@
 - [Yalantis/Segmentio](https://github.com/Yalantis/Segmentio) - Animated top/bottom segmented control written in Swift.
 - [xmartlabs/XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
 - [krzysztofzablocki/LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
-- [alexisakers/BulletinBoard](https://github.com/alexisakers/BulletinBoard) - General-purpose contextual cards for iOS
+- [alexaubry/BulletinBoard](https://github.com/alexaubry/BulletinBoard) - General-purpose contextual cards for iOS
 - [shu223/ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - Code examples for ARKit.
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
@@ -4128,6 +4139,12 @@
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+## vpn 
+
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
+
 ## vue 
 
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
@@ -4178,6 +4195,7 @@
 
 ## windows 
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
