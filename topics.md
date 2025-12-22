@@ -83,6 +83,7 @@
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
+- [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -146,6 +147,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -221,6 +223,7 @@
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
+- [tui](#tui)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -253,6 +256,7 @@
 
 ## agent 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -274,7 +278,6 @@
 
 ## ai-agents 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 
 ## ajax 
@@ -716,6 +719,7 @@
 ## compiler 
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [llvm-mirror/clang](https://github.com/llvm-mirror/clang) - Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -1076,6 +1080,10 @@
 
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
+
+## finance 
+
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## firebase 
 
@@ -1789,7 +1797,7 @@
 - [Lision/WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - 🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [momotech/MLN](https://github.com/momotech/MLN) - 高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 - [apache/couchdb](https://github.com/apache/couchdb) - Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability
@@ -1966,6 +1974,7 @@
 
 ## llm 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -2164,6 +2173,10 @@
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [johnvuko/JTMaterialTransition](https://github.com/johnvuko/JTMaterialTransition) - An iOS transition for controllers based on material design.
+
+## microservices 
+
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 
 ## microsoft 
 
@@ -2858,7 +2871,7 @@
 - [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
 - [lijinma/wechat_spider](https://github.com/lijinma/wechat_spider) - 使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。
 - [jeffreybergier/Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 - [renjinkui2719/DIS_KVC_KVO](https://github.com/renjinkui2719/DIS_KVC_KVO) - Objective-C KVC, KVO的实现源码，根据 Foundation.framework汇编反写而来,还原iOS对KVO,KVC的真实实现
 - [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
@@ -4244,7 +4257,13 @@
 
 ## trading 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
+
+## tui 
+
+- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## twitter 
 
