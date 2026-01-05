@@ -147,6 +147,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
@@ -228,6 +229,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [userscript](#userscript)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -685,7 +687,7 @@
 
 ## cms 
 
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
@@ -835,7 +837,7 @@
 
 ## data-science 
 
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 
@@ -2174,6 +2176,13 @@
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [johnvuko/JTMaterialTransition](https://github.com/johnvuko/JTMaterialTransition) - An iOS transition for controllers based on material design.
 
+## mcp 
+
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
+
 ## microservices 
 
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -2462,6 +2471,7 @@
 
 ## others 
 
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [bitaxeorg/ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 - [tradeparadex/paradex-py](https://github.com/tradeparadex/paradex-py) - 
@@ -2471,7 +2481,6 @@
 - [okxlabs/DEX-Router-Solana-V1](https://github.com/okxlabs/DEX-Router-Solana-V1) - 
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [slowmist/Crypto-Asset-Tracing-Handbook](https://github.com/slowmist/Crypto-Asset-Tracing-Handbook) - 加密资产追踪手册 Crypto Asset Tracing Handbook
-- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [freedomtan/sensors](https://github.com/freedomtan/sensors) - Read values from thermal sensors, voltage meters, and current meters on iPhone/iPad
 - [shaojiankui/SmartPush](https://github.com/shaojiankui/SmartPush) - SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App
@@ -2857,7 +2866,7 @@
 - [Shmoopi/iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services) - iOS System Services is a class to gather all available information about a device.
 - [objcio/issue-13-viper](https://github.com/objcio/issue-13-viper) - 
 - [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
 - [likedan/Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) - A Car Recognition Framework for CoreML
 - [google-ar/WebARonARKit](https://github.com/google-ar/WebARonARKit) - An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.
 - [strongself/The-Book-of-VIPER](https://github.com/strongself/The-Book-of-VIPER) - the one and the only
@@ -3630,7 +3639,7 @@
 
 ## r 
 
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 
 ## rag 
 
@@ -4325,6 +4334,10 @@
 - [jverkoey/nimbus](https://github.com/jverkoey/nimbus) - The iOS framework that grows only as fast as its documentation
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## userscript 
+
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 ## vagrant 
 
