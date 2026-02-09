@@ -233,6 +233,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [ui-design](#ui-design)
 - [userscript](#userscript)
 - [vagrant](#vagrant)
 - [video](#video)
@@ -254,6 +255,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -269,6 +271,8 @@
 
 ## ai 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -285,6 +289,7 @@
 
 ## ai-agents 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
@@ -324,7 +329,7 @@
 
 ## android 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -403,6 +408,7 @@
 
 ## automation 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
@@ -634,17 +640,14 @@
 ## chatbot 
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 
 ## chatgpt 
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -670,7 +673,6 @@
 
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
@@ -717,6 +719,7 @@
 
 ## command-line 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [vishwanatharondekar/gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) - Create a merge request from command line in gitlab
@@ -932,13 +935,13 @@
 ## devops 
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 
 ## docker 
 
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 
 ## documentation 
@@ -1336,6 +1339,7 @@
 
 ## hacktoberfest 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1436,6 +1440,7 @@
 
 ## html5 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 
 ## http 
@@ -1485,7 +1490,7 @@
 ## ios 
 
 - [freedomtan/sensors_cmdline](https://github.com/freedomtan/sensors_cmdline) - Read thermal/temperature sensors, voltage meters, and current meters on M1 and iPhone
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
@@ -1792,6 +1797,7 @@
 
 ## javascript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1919,7 +1925,7 @@
 ## kubernetes 
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 
 ## language 
 
@@ -1974,7 +1980,7 @@
 - [nvzqz/RandomKit](https://github.com/nvzqz/RandomKit) - Random data generation in Swift
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [liumingmusic/react-native-full-example](https://github.com/liumingmusic/react-native-full-example) - 第一个完整的react-native项目。包括服务端和移动端两部分。服务端使用express+bootstrap进行搭建，主要功能有登录、退出、模块选择、查看、修改、删除、分页等后台管理的基本功能；移动端主要用到组件View、Text、Image、ScrollView、ListView等常用的组件，也使用了第三方的地图服务(高德地图)，作为初学者。是一个很好的学习案例。
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
@@ -1989,6 +1995,7 @@
 
 ## llm 
 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -2061,7 +2068,7 @@
 ## macos 
 
 - [freedomtan/sensors_cmdline](https://github.com/freedomtan/sensors_cmdline) - Read thermal/temperature sensors, voltage meters, and current meters on M1 and iPhone
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
@@ -2195,6 +2202,8 @@
 
 ## mcp 
 
+- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -2218,7 +2227,7 @@
 
 ## mobile 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
@@ -2287,7 +2296,6 @@
 
 ## nextjs 
 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [bigint/hey](https://github.com/bigint/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -2312,6 +2320,7 @@
 
 ## nodejs 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
@@ -2342,6 +2351,7 @@
 
 ## npm 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
@@ -2470,7 +2480,6 @@
 ## openai 
 
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -2498,8 +2507,11 @@
 
 ## others 
 
+- [yizhiyanhua-ai/media-downloader](https://github.com/yizhiyanhua-ai/media-downloader) - 🎬 智能媒体下载器 - 根据用户描述自动搜索和下载图片、视频片段 | Smart Media Downloader - Auto search and download images/videos based on description
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
-- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code
+- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -2525,8 +2537,6 @@
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [intitni/CodeiumForXcode](https://github.com/intitni/CodeiumForXcode) - 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -2546,8 +2556,6 @@
 - [luoyeETH/MyWalletScan](https://github.com/luoyeETH/MyWalletScan) - 
 - [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc.
 - [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
-- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-- [evilcos/darkhandbook](https://github.com/evilcos/darkhandbook) - Update by evilcos, for DarkHandBook.io
 - [QuantWorld2022/backtrader](https://github.com/QuantWorld2022/backtrader) - 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -2901,7 +2909,7 @@
 - [Shmoopi/iOS-System-Services](https://github.com/Shmoopi/iOS-System-Services) - iOS System Services is a class to gather all available information about a device.
 - [objcio/issue-13-viper](https://github.com/objcio/issue-13-viper) - 
 - [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
+- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [likedan/Core-ML-Car-Recognition](https://github.com/likedan/Core-ML-Car-Recognition) - A Car Recognition Framework for CoreML
 - [google-ar/WebARonARKit](https://github.com/google-ar/WebARonARKit) - An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.
 - [strongself/The-Book-of-VIPER](https://github.com/strongself/The-Book-of-VIPER) - the one and the only
@@ -3603,6 +3611,8 @@
 
 ## prompt-engineering 
 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## publishing 
@@ -3698,10 +3708,11 @@
 
 ## react 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
 - [bigint/hey](https://github.com/bigint/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -3811,7 +3822,6 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -3956,6 +3966,7 @@
 
 ## swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [AvdLee/Diagnostics](https://github.com/AvdLee/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -4264,6 +4275,7 @@
 
 ## tailwindcss 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [bigint/hey](https://github.com/bigint/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 
 ## telegram 
@@ -4323,7 +4335,6 @@
 
 ## tui 
 
-- [longbridge/longbridge-terminal](https://github.com/longbridge/longbridge-terminal) - An experimental  terminal UI of Longbridge App.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
 ## twitter 
@@ -4334,6 +4345,7 @@
 
 ## typescript 
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
@@ -4387,6 +4399,10 @@
 - [jverkoey/nimbus](https://github.com/jverkoey/nimbus) - The iOS framework that grows only as fast as its documentation
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## ui-design 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ## userscript 
 
@@ -4456,7 +4472,7 @@
 
 ## web 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - Provide a high-performance, full-platform development framework with unified codebase, ultimate ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -4538,6 +4554,7 @@
 
 ## xcode 
 
+- [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
@@ -4601,6 +4618,10 @@
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
