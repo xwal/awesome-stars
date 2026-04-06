@@ -53,6 +53,7 @@
 - [Smarty](#smarty)
 - [Solidity](#solidity)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -144,7 +145,7 @@
 
 ## C# # 
 
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 ## C++ 
 
@@ -227,7 +228,6 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [KKBOX/kkbox-ios-dev](https://github.com/KKBOX/kkbox-ios-dev) - 
 - [beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) - RxSwift 中文文档
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
@@ -361,7 +361,7 @@
 
 ## Handlebars 
 
-- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 一个简单有趣纯粹的 AI 学习社区，点击试试👇
+- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 🌶️ 通过 AI 辣评学习 AI，模拟各种明星角色，给大家不一样的学习体验。🦄 BeatAI，一片简单有趣的 AI 大陆，欢迎大家常来住住。
 
 ## Haskell 
 
@@ -393,6 +393,9 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+- [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [coinbase/agentic-wallet-skills](https://github.com/coinbase/agentic-wallet-skills) - npx skills add coinbase/agentic-wallet-skills
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
@@ -507,7 +510,6 @@
 - [JackPu/react-native-tips](https://github.com/JackPu/react-native-tips) - 🐡 Some tips about developing react native app
 - [ProducterTips/producter-book-examples](https://github.com/ProducterTips/producter-book-examples) - All examples in Book Producter http://producter.io
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [hexojs/hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) - Feed generator for Hexo.
 - [bang590/JSPatchConvertor](https://github.com/bang590/JSPatchConvertor) - JSPatch Convertor is a tool that converts Objective-C code to JSPatch script automatically.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -590,7 +592,7 @@
 
 ## Kotlin 
 
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [ACINQ/secp256k1-kmp](https://github.com/ACINQ/secp256k1-kmp) - Kotlin Multi Platform bindings for Bitcoin secp256k1 library.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
@@ -638,6 +640,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [swiftlang/swift-evolution](https://github.com/swiftlang/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 - [satoshilabs/slips](https://github.com/satoshilabs/slips) - SatoshiLabs Improvement Proposals
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
@@ -1225,7 +1228,6 @@
 - [MDCC2016/iOS-Session-Slides](https://github.com/MDCC2016/iOS-Session-Slides) - Here are the slides in MDCC 2016 iOS Session.
 - [apple/swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) - Moved to apple/swift-protobuf
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [ahmed-machine/PokemonGo-Map](https://github.com/ahmed-machine/PokemonGo-Map) - 🌏 Live visualization of all the pokemon in your area... and more! (shutdown)
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -1323,13 +1325,16 @@
 
 ## Python 
 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [yizhiyanhua-ai/media-downloader](https://github.com/yizhiyanhua-ai/media-downloader) - 🎬 智能媒体下载器 - 根据用户描述自动搜索和下载图片、视频片段 | Smart Media Downloader - Auto search and download images/videos based on description
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1392,7 +1397,7 @@
 - [burczyk/XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - Swift 4 code snippets for Xcode
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [lucasxlu/LagouJob](https://github.com/lucasxlu/LagouJob) - Data Analysis & Mining for lagou.com
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
@@ -1467,6 +1472,10 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
@@ -1588,6 +1597,10 @@
 
 - [BaiduHiDeviOS/iOS-Tech-Weekly](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly) - 百度Hi团队 iOS 技术周报
 
+## Svelte 
+
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
+
 ## Swift 
 
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -1608,7 +1621,7 @@
 - [vandadnp/swift-weekly](https://github.com/vandadnp/swift-weekly) - Weekly Swift Language Gems, Tips and Tricks
 - [drewmccormack/SwiftCloudDrive](https://github.com/drewmccormack/SwiftCloudDrive) - An easy to use Swift wrapper around iCloud Drive.
 - [zbrateam/Zebra](https://github.com/zbrateam/Zebra) - 🦓 A Useful Package Manager for iOS
-- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find Swift packages!
+- [SwiftPackageIndex/SwiftPackageIndex-Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - The Swift Package Index is the place to find and explore Swift packages
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) - Telegram-iOS
@@ -1880,6 +1893,7 @@
 - [ivnsch/SwiftCharts](https://github.com/ivnsch/SwiftCharts) - Easy to use and highly customizable charts library for iOS
 - [jessesquires/JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) - [Deprecated] A lightweight Swift WebKit view controller for iOS
 - [objcio/functional-swift](https://github.com/objcio/functional-swift) - Issue repository for the Functional Swift book
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [xmartlabs/XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift
 - [MHaroonBaig/MotionKit](https://github.com/MHaroonBaig/MotionKit) - Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made insanely simple  :octocat:   :satellite:
 - [tbxark/TKRadarChart](https://github.com/tbxark/TKRadarChart) - A customizable radar chart  in Swift
@@ -2070,9 +2084,10 @@
 
 ## TypeScript 
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
-- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -2081,7 +2096,6 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
@@ -2094,7 +2108,6 @@
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
