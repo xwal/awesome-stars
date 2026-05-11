@@ -138,7 +138,7 @@
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
-- [acl-dev/acl](https://github.com/acl-dev/acl) - C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..
+- [acl-dev/acl](https://github.com/acl-dev/acl) - C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, Harmony,etc..
 - [examplecode/mproxy](https://github.com/examplecode/mproxy) - c 语言实现的一个最小的http代理，代理支持设置加密隧道，可以躲避防火墙的监测
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
@@ -413,7 +413,6 @@
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-- [OneKeyHQ/hardware-js-sdk](https://github.com/OneKeyHQ/hardware-js-sdk) - Javascript SDK for easily connect OneKey hardware device.
 - [luoyeETH/MyWalletScan](https://github.com/luoyeETH/MyWalletScan) - 
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -767,7 +766,6 @@
 - [adad184/MMParallaxCell](https://github.com/adad184/MMParallaxCell) - A subclass of UITableViewCell to present the parallax effect
 - [MartinRGB/Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Simply Implement Zee Young's animation
 - [alibaba/BeeHive](https://github.com/alibaba/BeeHive) - :honeybee: BeeHive is a solution for iOS Application module programs, it absorbed the Spring Framework API service concept to avoid coupling between modules.
-- [skyline75489/MVVM-DataController-Demo](https://github.com/skyline75489/MVVM-DataController-Demo) - 
 - [tapharmonic/Learning-AV-Foundation](https://github.com/tapharmonic/Learning-AV-Foundation) - Sample code for Bob McCune's Learning AV Foundation book.
 - [tinymind/LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - A Mac App to find unused images and resources in Xcode project.
 - [nicklockwood/GZIP](https://github.com/nicklockwood/GZIP) - A simple NSData category for gzipping/unzipping data in iOS and Mac OS
@@ -1133,7 +1131,7 @@
 ## Others 
 
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [onevcat/skills](https://github.com/onevcat/skills) - AI agent skills by onevcat
 - [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow) - Battle-tested Claude Code workflow template — memory management, context engineering, and task routing from 3 months of daily usage
@@ -1217,7 +1215,6 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [iOS-Goodies/iOS-Goodies](https://github.com/iOS-Goodies/iOS-Goodies) - Your favorite iOS Newsletter, now open source.
 - [kodecocodes/english-style-guide](https://github.com/kodecocodes/english-style-guide) - Style guide for writing in English for tutorials and articles at Kodeco.
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
 - [strongself/The-Book-of-VIPER](https://github.com/strongself/The-Book-of-VIPER) - the one and the only
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [DeveloperLx/macOS_Development_Tutorials_translation](https://github.com/DeveloperLx/macOS_Development_Tutorials_translation) - Translation of macOS development tutorials.
@@ -1293,7 +1290,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [v5tech/awesome-ios-chart](https://github.com/v5tech/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift
 - [objcio/articles](https://github.com/objcio/articles) - All current objc.io articles
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [kodecocodes/objective-c-style-guide](https://github.com/kodecocodes/objective-c-style-guide) - A style guide that outlines the coding conventions for Kodeco
@@ -1333,6 +1330,7 @@
 
 ## Python 
 
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect API traffic from Claude Code, Codex CLI, OpenCode, and Cursor CLI in a trace viewer.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [AvdLee/Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) - An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
@@ -1347,7 +1345,7 @@
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
+- [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [yizhiyanhua-ai/media-downloader](https://github.com/yizhiyanhua-ai/media-downloader) - 🎬 智能媒体下载器 - 根据用户描述自动搜索和下载图片、视频片段 | Smart Media Downloader - Auto search and download images/videos based on description
@@ -1373,7 +1371,7 @@
 - [OpenRarity/open-rarity](https://github.com/OpenRarity/open-rarity) - Reference implementation of the OpenRarity protocol with Python.
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [uber/uber-poet](https://github.com/uber/uber-poet) - A mock swift project generator & build runner to help benchmark various module dependency graphs.
-- [ethereum/web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
+- [ApeWorX/web3.py](https://github.com/ApeWorX/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [greatcodeeer/iPhone-Pickup-Monitor](https://github.com/greatcodeeer/iPhone-Pickup-Monitor) - iPhone取货预约助手
@@ -1406,7 +1404,6 @@
 - [HuberTRoy/MusicBox](https://github.com/HuberTRoy/MusicBox) - :blush: :musical_note: MusicPlayer 一站式收听多平台音乐(网易云, 虾米, QQ)的跨平台音乐播放器，尽情享受吧~:sparkles:
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
-- [joshua-wu/deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
 - [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
 - [NetEaseGame/iOS-private-api-checker](https://github.com/NetEaseGame/iOS-private-api-checker) - [Deprecated] iOS-private-api-checker 苹果iOS私有API检查工具 Developer tool to scan iOS apps for private API usage before submitting to Apple
 - [burczyk/XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) - Swift 4 code snippets for Xcode
@@ -1487,6 +1484,7 @@
 
 ## Rust 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
@@ -1543,6 +1541,8 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -1579,7 +1579,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [v5tech/notes](https://github.com/v5tech/notes) - notes
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Smarty 
 
@@ -2101,6 +2101,7 @@
 
 ## TypeScript 
 
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [onevcat/argue](https://github.com/onevcat/argue) - Harness-agnostic orchestration package for multi-agent consensus workflows
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
@@ -2110,12 +2111,12 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -2134,6 +2135,7 @@
 - [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [OneKeyHQ/hardware-js-sdk](https://github.com/OneKeyHQ/hardware-js-sdk) - Javascript SDK for easily connect OneKey hardware device.
 - [excalidraw/excalidraw-vscode](https://github.com/excalidraw/excalidraw-vscode) - Excalidraw for Visual Studio Code
 - [okx/js-wallet-sdk](https://github.com/okx/js-wallet-sdk) - Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2208,7 +2210,6 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 
 ## Vim Script 
