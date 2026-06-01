@@ -325,7 +325,7 @@
 
 ## ai-agents 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
@@ -403,7 +403,7 @@
 - [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [jpush/jpush-flutter-plugin](https://github.com/jpush/jpush-flutter-plugin) - JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
-- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
+- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
@@ -586,7 +586,7 @@
 
 ## bioinformatics 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 
 ## bitcoin 
 
@@ -745,7 +745,7 @@
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
@@ -789,6 +789,7 @@
 - [nsomar/Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
 - [Nonchalant/AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS
 - [JohnSundell/SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
@@ -897,7 +898,7 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [bnb-chain/tss-lib](https://github.com/bnb-chain/tss-lib) - Threshold Signature Scheme, for ECDSA and EDDSA
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa) - Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
@@ -936,13 +937,13 @@
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
+- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 
 ## data-analysis 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [AAChartModel/AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - 📈📊📱💻🖥️An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges
 - [lucasxlu/LagouJob](https://github.com/lucasxlu/LagouJob) - Data Analysis & Mining for lagou.com
 - [ecmadao/hacknical](https://github.com/ecmadao/hacknical) - Hacknical, hacker & technical. A website for GitHub user to make a better resume.
@@ -1003,7 +1004,7 @@
 
 ## deno 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## deployment 
 
@@ -1251,7 +1252,7 @@
 - [jpush/jpush-flutter-plugin](https://github.com/jpush/jpush-flutter-plugin) - JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
-- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
+- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -1331,7 +1332,7 @@
 
 ## generative-ai 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
@@ -1362,7 +1363,7 @@
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [res0nat0r/gitosis](https://github.com/res0nat0r/gitosis) - Manage git repositories, provide access to them over SSH, with tight access control and not needing shell accounts.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
+- [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 - [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
@@ -1564,7 +1565,7 @@
 
 ## html 
 
-- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 - [pointfreeco/swift-web](https://github.com/pointfreeco/swift-web) - 🕸 A collection of Swift server-side frameworks for handling HTML, CSS, routing and middleware.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
@@ -1706,7 +1707,7 @@
 - [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [saoudrizwan/DynamicJSON](https://github.com/saoudrizwan/DynamicJSON) - Access JSON properties dynamically like JavaScript using Swift 4.2's new @dynamicMemberLookup feature
 - [TimOliver/TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller for iOS that allows users to crop portions of UIImage objects
-- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose 五个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。
+- [CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) - QMUI iOS——致力于提高项目 UI 开发效率的解决方案
 - [DaveWoodCom/XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, su
@@ -1959,7 +1960,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [didi/Hummer](https://github.com/didi/Hummer) - 一套移动端高性能高可用的动态化跨端开发框架
@@ -2000,7 +2001,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -2088,7 +2089,7 @@
 ## learning 
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
@@ -2234,7 +2235,7 @@
 - [freedomtan/sensors_cmdline](https://github.com/freedomtan/sensors_cmdline) - Read thermal/temperature sensors, voltage meters, and current meters on M1 and iPhone
 - [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) - Script that allows to download portable installers of different versions Adobe software for macOS
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
@@ -2472,7 +2473,6 @@
 
 ## nextjs 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [slymnoyann/hey-1](https://github.com/slymnoyann/hey-1) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -2488,7 +2488,7 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -2524,7 +2524,7 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
 - [alsotang/node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -2727,7 +2727,7 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow) - Battle-tested Claude Code workflow template — memory management, context engineering, and task routing from 3 months of daily usage
+- [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow) - Battle-tested Claude Code workflow template
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) - This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -3809,7 +3809,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [tuist/tuist](https://github.com/tuist/tuist) - Your platform team, as a service
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
@@ -4069,7 +4069,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [zhangzhilinx/qsv2flv](https://github.com/zhangzhilinx/qsv2flv) - A tool developed in Rust to convert QSV to FLV（一个爱奇艺qsv转flv工具，不会生成多余的临时文件，使用Rust开发）
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -4217,7 +4217,7 @@
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [AvdLee/Diagnostics](https://github.com/AvdLee/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [swiftlang/swiftly](https://github.com/swiftlang/swiftly) - A Swift toolchain installer and manager, written in Swift.
@@ -4225,7 +4225,7 @@
 - [XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [tailec/ios-architecture](https://github.com/tailec/ios-architecture) - A collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [lixiang1994/AttributedString](https://github.com/lixiang1994/AttributedString) - 基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
@@ -4504,7 +4504,8 @@
 
 ## swiftui 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [everettjf/treescope](https://github.com/everettjf/treescope) - An open-source runtime view inspector for UIKit, AppKit and SwiftUI, viewed in your browser. A free, open alternative to Lookin — with first-class SwiftUI inspection included.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject) - Hot Reloading for Swift applications!
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
 - [CombineCommunity/rxswift-to-combine-cheatsheet](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet) - RxSwift to Apple’s Combine Cheat Sheet
