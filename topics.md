@@ -231,6 +231,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
@@ -292,13 +293,16 @@
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 
 ## ai 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
@@ -329,6 +333,7 @@
 - [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -816,6 +821,7 @@
 
 ## coding 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
@@ -2053,7 +2059,7 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [glideapps/quicktype-xcode](https://github.com/glideapps/quicktype-xcode) - Xcode extension to paste JSON as Swift, Objective-C, and more
-- [hilen/TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift 5.
+- [lanceylai/TSWeChat](https://github.com/lanceylai/TSWeChat) - A WeChat alternative. Written in Swift 5.
 - [youknowone/VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for OS X.
 - [CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension) - A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.
 - [Mantle/Mantle](https://github.com/Mantle/Mantle) - Model framework for Cocoa and Cocoa Touch
@@ -2455,7 +2461,6 @@
 
 ## natural-language-processing 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
@@ -2722,7 +2727,6 @@
 - [6551Team/claude-code-design-guide](https://github.com/6551Team/claude-code-design-guide) - From Early Internet Design Patterns to AI Agent Implementation — A Deep Dive into Claude Code for Developers
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
@@ -3690,7 +3694,7 @@
 - [ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu) - CollectionView做的两级菜单，可以折叠第二级菜单
 - [v5tech/awesome-ios-animation](https://github.com/v5tech/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
 - [v5tech/notes](https://github.com/v5tech/notes) - notes
-- [griddynamics/MMDrawerController](https://github.com/griddynamics/MMDrawerController) - A lightweight, easy to use, Side Drawer Navigation Controller
+- [griddynamics-archive/MMDrawerController](https://github.com/griddynamics-archive/MMDrawerController) - A lightweight, easy to use, Side Drawer Navigation Controller
 - [alekseyn/EasyTableView](https://github.com/alekseyn/EasyTableView) - Horizontal and vertical scrolling table views for iOS
 - [agusso/ASOXScrollTableViewCell](https://github.com/agusso/ASOXScrollTableViewCell) - 'Horizontal Scroll Table View Cell' library
 - [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS
@@ -3861,6 +3865,7 @@
 
 ## python 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -3918,6 +3923,7 @@
 
 ## pytorch 
 
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [fastai/course-v3](https://github.com/fastai/course-v3) - The 3rd edition of course.fast.ai
@@ -4084,7 +4090,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [mimblewimble/grin](https://github.com/mimblewimble/grin) - Minimal implementation of the Mimblewimble protocol.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -4217,6 +4222,10 @@
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+## stable-diffusion 
+
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 ## swift 
 
@@ -4659,7 +4668,7 @@
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [LinkedInAttic/LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
-- [hilen/TSWeChat](https://github.com/hilen/TSWeChat) - A WeChat alternative. Written in Swift 5.
+- [lanceylai/TSWeChat](https://github.com/lanceylai/TSWeChat) - A WeChat alternative. Written in Swift 5.
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) - MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L
 - [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - An elegant and simple iOS music player.
