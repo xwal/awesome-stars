@@ -80,6 +80,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -112,6 +113,7 @@
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
@@ -256,6 +258,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [unity](#unity)
 - [userscript](#userscript)
 - [v2ray](#v2ray)
 - [vagrant](#vagrant)
@@ -302,6 +305,7 @@
 
 ## agent-skills 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
 - [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
@@ -346,7 +350,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -373,6 +377,8 @@
 
 ## ai-agents 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -579,6 +585,7 @@
 
 ## awesome-list 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
 - [zhuyansen/awesome-opus-5.5-video](https://github.com/zhuyansen/awesome-opus-5.5-video) - Videos, motion graphics, 3D scenes and games made with Claude Opus 5.5 — original posts, prompts and sources. English / 中文.
 - [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 - [athemeroy/awesome-claude-5-5-videos](https://github.com/athemeroy/awesome-claude-5-5-videos) - Source-linked Claude 5.5 video workflows: Opus and Sonnet demos, separately labeled next-Fable testing reports, prompts, tools and production evidence.
@@ -832,6 +839,9 @@
 
 ## claude-code 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
+- [JimLiu/baocut](https://github.com/JimLiu/baocut) - BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [AirsupHQ/machine-skill](https://github.com/AirsupHQ/machine-skill) - Describe any machine in one line. Claude builds a photoreal, physics based, interactive simulation of it in one HTML file, plus the film to post it. An open source Claude Code skill.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
@@ -880,6 +890,7 @@
 
 ## cli 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
@@ -1185,7 +1196,7 @@
 
 ## docker 
 
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [jenkinsci/docker](https://github.com/jenkinsci/docker) - Docker official jenkins repo
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
@@ -1215,6 +1226,12 @@
 ## dotnet 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
+
+## downloader 
+
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+- [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
+- [mzeeshanid/MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.
 
 ## dsh-plugin 
 
@@ -1447,6 +1464,7 @@
 
 ## game-development 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
@@ -1460,6 +1478,7 @@
 
 ## gamedev 
 
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
@@ -1471,6 +1490,7 @@
 
 ## gh-extension 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 
@@ -1502,6 +1522,7 @@
 
 ## github 
 
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -1536,7 +1557,7 @@
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
@@ -1550,6 +1571,10 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
+
+## godot 
+
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
 
 ## golang 
 
@@ -1770,7 +1795,7 @@
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [airsquared/blobsaver](https://github.com/airsquared/blobsaver) - A cross-platform GUI and CLI app for automatically saving SHSH blobs
 - [AvdLee/Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill) - An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://
 - [freedomtan/sensors_cmdline](https://github.com/freedomtan/sensors_cmdline) - Read thermal/temperature sensors, voltage meters, and current meters on M1 and iPhone
 - [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - xcodebuild for humans and agents: build, run, debug, and test iOS, macOS, tvOS, watchOS, and visionOS apps from your terminal.
@@ -2391,6 +2416,7 @@
 
 ## macos 
 
+- [JimLiu/baocut](https://github.com/JimLiu/baocut) - BaoCut: an AI video agent with an editable timeline. Transcribe, subtitle, translate, dub, cut and animate.
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
@@ -2398,7 +2424,7 @@
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://
 - [freedomtan/sensors_cmdline](https://github.com/freedomtan/sensors_cmdline) - Read thermal/temperature sensors, voltage meters, and current meters on M1 and iPhone
 - [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - xcodebuild for humans and agents: build, run, debug, and test iOS, macOS, tvOS, watchOS, and visionOS apps from your terminal.
@@ -2470,7 +2496,7 @@
 - [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients for iOS / macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Shadowsocks GUI client for mac OS
 - [theos/theos](https://github.com/theos/theos) - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [LinkedInAttic/LayoutKit](https://github.com/LinkedInAttic/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS.
@@ -2510,7 +2536,7 @@
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Fast Markdown note-taking app for Mac and iPhone
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
@@ -2828,7 +2854,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [infinum/ios-viper-xcode-templates](https://github.com/infinum/ios-viper-xcode-templates) - Used for generating template files for the VIPER architecture, which solves the common Massive View Controller issues in iOS apps.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
@@ -2882,6 +2908,8 @@
 
 ## others 
 
+- [roothide/Dopamine-roothide](https://github.com/roothide/Dopamine-roothide) - Open-source integration of roothide and Dopamine 3.x
+- [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) - Offline FairPlay App Store IPA decryption with independent key derivation
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) - Official Hex-Rays IDA MCP Server.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -2968,7 +2996,6 @@
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [OneKeyHQ/hardware-js-sdk](https://github.com/OneKeyHQ/hardware-js-sdk) - Javascript SDK for easily connect OneKey hardware device.
-- [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [reown-com/reown-swift](https://github.com/reown-com/reown-swift) - 
 - [kodecocodes/video-cgcdo-materials](https://github.com/kodecocodes/video-cgcdo-materials) - The projects and the materials that accompany the iOS Concurrency with GCD and Operations video course
 - [AmazingAng/zkSync-Paymaster-RescuETH](https://github.com/AmazingAng/zkSync-Paymaster-RescuETH) - Paymaster contracts used in resue zkSync airdrop from exploited wallets.
@@ -3038,7 +3065,7 @@
 - [ApeWorX/web3.py](https://github.com/ApeWorX/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [next-theme/hexo-theme-next](https://github.com/next-theme/hexo-theme-next) - 🎉 Elegant and powerful theme for Hexo.
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [bogo/arm64-to-sim](https://github.com/bogo/arm64-to-sim) - Transmogrify native iOS frameworks to run in iOS Simulator on Apple silicon.
@@ -3180,7 +3207,6 @@
 - [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab REST API
 - [appium/WebDriverAgent](https://github.com/appium/WebDriverAgent) - A WebDriver server for iOS, tvOS and watchOS
 - [shu223/DepthBook](https://github.com/shu223/DepthBook) - iOSのデプス（深度）の解説書「Depth in Depth」のサンプルコードです。
-- [mzeeshanid/MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.
 - [swiftlang/swift-syntax](https://github.com/swiftlang/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 - [gdbinit/MachOView](https://github.com/gdbinit/MachOView) - MachOView fork
 - [bnb-chain/cplusplus-sdk](https://github.com/bnb-chain/cplusplus-sdk) - 
@@ -3344,7 +3370,7 @@
 - [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
 - [lijinma/wechat_spider](https://github.com/lijinma/wechat_spider) - 使用“代理”的方式来抓取微信公众账号文章，可以抓取阅读数、点赞数，基于 anyproxy。
 - [jeffreybergier/Blog-Getting-Started-with-Vision](https://github.com/jeffreybergier/Blog-Getting-Started-with-Vision) - Blog: Getting Started with Vision on iOS 11
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 - [renjinkui2719/DIS_KVC_KVO](https://github.com/renjinkui2719/DIS_KVC_KVO) - Objective-C KVC, KVO的实现源码，根据 Foundation.framework汇编反写而来,还原iOS对KVO,KVC的真实实现
 - [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
@@ -3613,7 +3639,6 @@
 - [pili-engineering/PLCameraStreamingKit](https://github.com/pili-engineering/PLCameraStreamingKit) - PLCameraStreamingKit 是 Pili 直播 SDK 的 iOS 推流端，是带有采集模块老版本 SDK。如果是新用户接入，建议使用 PLMediaStreamingKit。该版本支持 RTMP 推流，h.264 和 AAC 编码，硬编软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
 - [DeskConnect/SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
 - [marmelroy/Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Swift friendly localization and i18n with in-app language switching
-- [mikeyward/cocoa-programming-for-osx-5e](https://github.com/mikeyward/cocoa-programming-for-osx-5e) - Solutions and errata for Cocoa Programming for OS X, 5th Edition. https://www.bignerdranch.com/we-write/cocoa-programming/
 - [remirobert/ProducthuntOSX](https://github.com/remirobert/ProducthuntOSX) - Product hunt application for OS X
 - [lovemo/MVVMFramework](https://github.com/lovemo/MVVMFramework) - (OC版)总结整理下一个快速开发框架，以更优雅的方式写代码，做一个代码艺术家。分离控制器中的代码，已加入cell自适应高度，自动缓存网络请求代码，降低代码耦合，提高开发效率。
 - [coolnameismy/BabyBluetooth-swift](https://github.com/coolnameismy/BabyBluetooth-swift) - :baby: BabyBluetooth swift 版本，The easiest way to use Bluetooth (BLE )in ios,even bady can use. 简单易用的蓝牙库，基于CoreBluetooth的封装，并兼容ios和mac osx.
@@ -4155,7 +4180,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [SylarLong/react-iztro](https://github.com/SylarLong/react-iztro) - ⭐A react component based on iztro to generate an astrolabe of Zi Wei Dou Shu. 基于iztro实现的紫微斗数星盘React组件。
 - [hop-protocol/hop](https://github.com/hop-protocol/hop) - 🐰 Hop Protocol Monorepo
 - [slymnoyann/hey.xyz](https://github.com/slymnoyann/hey.xyz) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
@@ -4265,6 +4290,7 @@
 
 ## rust 
 
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [penso/herdr-gpui](https://github.com/penso/herdr-gpui) - Native client for Herdr on macOS, Linux, and Windows, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
@@ -4330,7 +4356,7 @@
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 
 ## server 
 
@@ -4421,7 +4447,7 @@
 ## sqlite 
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
@@ -4443,7 +4469,7 @@
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows, iOS testflight!  Android, Linux waitlist open! A local Wispr Flow alternative. Follow https://
 - [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 - [AvdLee/Diagnostics](https://github.com/AvdLee/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 - [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - xcodebuild for humans and agents: build, run, debug, and test iOS, macOS, tvOS, watchOS, and visionOS apps from your terminal.
@@ -4621,7 +4647,7 @@
 - [Zewo/Zewo](https://github.com/Zewo/Zewo) - Lightweight library for web server applications in Swift on macOS and Linux powered by coroutines.
 - [draveness/DKChainableAnimationKit](https://github.com/draveness/DKChainableAnimationKit) - A DSL to make animation easy on iOS with Swift.
 - [CosmicMind/Material](https://github.com/CosmicMind/Material) - A UI/UX framework for creating beautiful applications.
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Shadowsocks GUI client for mac OS
 - [fancymax/12306ForMac](https://github.com/fancymax/12306ForMac) - An unofficial 12306 Client for Mac
 - [timdonnelly/Advance](https://github.com/timdonnelly/Advance) - Physics-based animations for iOS, tvOS, and macOS.
 - [BeauNouvelle/FaceAware](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image.
@@ -4909,6 +4935,10 @@
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
+## unity 
+
+- [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
+
 ## userscript 
 
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
@@ -4925,7 +4955,6 @@
 
 ## video 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
